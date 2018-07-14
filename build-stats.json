@@ -4,23 +4,23 @@
   "warnings": [
   ],
   "version": "4.16.0",
-  "hash": "cea6545042fe96f0db1a",
-  "time": 34963,
-  "builtAt": 1531569198171,
+  "hash": "8d7410b145b98a9c968c",
+  "time": 35263,
+  "builtAt": 1531597266918,
   "publicPath": "/react-trial-lesson/",
   "outputPath": "/Users/furthur/Projects/intensives/react-trial-lesson/build",
   "assetsByChunkName": {
     "source": [
-      "css/c392f9775a9a5792a0ad.cea65.css",
-      "js/source.1a5ad.js",
-      "css/c392f9775a9a5792a0ad.cea65.css.map",
-      "js/source.1a5ad.js.map"
+      "css/5036f1c231cac33f995c.8d741.css",
+      "js/source.6bbc9.js",
+      "css/5036f1c231cac33f995c.8d741.css.map",
+      "js/source.6bbc9.js.map"
     ]
   },
   "assets": [
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
-      "size": 15923,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
+      "size": 14552,
       "chunks": [
       ],
       "chunkNames": [
@@ -37,53 +37,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
-      "size": 551,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
-      "size": 494,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-      "size": 896,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
       "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
       "size": 896,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
-      "size": 824,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png",
-      "size": 667,
       "chunks": [
       ],
       "chunkNames": [
@@ -100,8 +55,17 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
-      "size": 859,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
+      "size": 679,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
+      "size": 824,
       "chunks": [
       ],
       "chunkNames": [
@@ -118,8 +82,44 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
-      "size": 679,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
+      "size": 859,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+      "size": 494,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
+      "size": 575,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+      "size": 896,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
+      "size": 551,
       "chunks": [
       ],
       "chunkNames": [
@@ -145,15 +145,6 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
-      "size": 455,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
       "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
       "size": 771,
       "chunks": [
@@ -163,26 +154,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
-      "size": 627,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-      "size": 1690,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
-      "size": 953,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
+      "size": 455,
       "chunks": [
       ],
       "chunkNames": [
@@ -199,8 +172,17 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
-      "size": 1174,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
+      "size": 627,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
+      "size": 953,
       "chunks": [
       ],
       "chunkNames": [
@@ -210,6 +192,114 @@
     {
       "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
       "size": 2367,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
+      "size": 1174,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
+      "size": 1690,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+      "size": 4385,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
+      "size": 5204,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+      "size": 5111,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
+      "size": 5309,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
+      "size": 16064,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
+      "size": 14428,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
+      "size": 1860,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
+      "size": 6537,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png",
+      "size": 667,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
+      "size": 15923,
       "chunks": [
       ],
       "chunkNames": [
@@ -244,89 +334,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
-      "size": 4385,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
-      "size": 1860,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
-      "size": 5309,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
-      "size": 5111,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
-      "size": 5204,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
-      "size": 6537,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
-      "size": 575,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-      "size": 16064,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
-      "size": 14552,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
-      "size": 14428,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
+      "size": 1066,
       "chunks": [
       ],
       "chunkNames": [
@@ -345,15 +354,6 @@
     {
       "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png",
       "size": 4888,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
-      "size": 1066,
       "chunks": [
       ],
       "chunkNames": [
@@ -388,8 +388,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-15.4164c.jpg",
-      "size": 67628,
+      "name": "images/photo-15.2d10b.jpg",
+      "size": 45854,
       "chunks": [
       ],
       "chunkNames": [
@@ -397,8 +397,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-14.3eb7a.jpg",
-      "size": 113217,
+      "name": "images/photo-14.eac87.jpg",
+      "size": 61784,
       "chunks": [
       ],
       "chunkNames": [
@@ -406,8 +406,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-13.2a38b.jpg",
-      "size": 53483,
+      "name": "images/photo-13.8da7a.jpg",
+      "size": 9544,
       "chunks": [
       ],
       "chunkNames": [
@@ -415,8 +415,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-12.b26a7.jpg",
-      "size": 33318,
+      "name": "images/photo-12.def5d.jpg",
+      "size": 62367,
       "chunks": [
       ],
       "chunkNames": [
@@ -424,8 +424,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-11.213e0.jpg",
-      "size": 81272,
+      "name": "images/photo-11.098bd.jpg",
+      "size": 56794,
       "chunks": [
       ],
       "chunkNames": [
@@ -433,8 +433,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-10.36139.jpg",
-      "size": 96051,
+      "name": "images/photo-10.c5d38.jpg",
+      "size": 46184,
       "chunks": [
       ],
       "chunkNames": [
@@ -442,8 +442,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-9.d9ea8.jpg",
-      "size": 78236,
+      "name": "images/photo-9.520a2.jpg",
+      "size": 147193,
       "chunks": [
       ],
       "chunkNames": [
@@ -451,8 +451,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-8.ba9f8.jpg",
-      "size": 65036,
+      "name": "images/photo-8.6a77f.jpg",
+      "size": 56595,
       "chunks": [
       ],
       "chunkNames": [
@@ -460,8 +460,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-7.590b1.jpg",
-      "size": 36728,
+      "name": "images/photo-7.f3bf8.jpg",
+      "size": 49384,
       "chunks": [
       ],
       "chunkNames": [
@@ -469,8 +469,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-6.147f7.jpg",
-      "size": 87355,
+      "name": "images/photo-6.cff3f.jpg",
+      "size": 30898,
       "chunks": [
       ],
       "chunkNames": [
@@ -478,8 +478,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-5.78cd2.jpg",
-      "size": 28668,
+      "name": "images/photo-5.1e3b3.jpg",
+      "size": 29210,
       "chunks": [
       ],
       "chunkNames": [
@@ -487,8 +487,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-4.ebae5.jpg",
-      "size": 135414,
+      "name": "images/photo-4.97824.jpg",
+      "size": 24498,
       "chunks": [
       ],
       "chunkNames": [
@@ -496,8 +496,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-3.697b9.jpg",
-      "size": 66532,
+      "name": "images/photo-3.e4bcf.jpg",
+      "size": 79360,
       "chunks": [
       ],
       "chunkNames": [
@@ -505,8 +505,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-2.03a88.jpg",
-      "size": 106218,
+      "name": "images/photo-2.e6949.jpg",
+      "size": 13093,
       "chunks": [
       ],
       "chunkNames": [
@@ -514,8 +514,8 @@
       "emitted": true
     },
     {
-      "name": "images/photo-1.ff648.jpg",
-      "size": 26526,
+      "name": "images/photo-1.f2997.jpg",
+      "size": 14850,
       "chunks": [
       ],
       "chunkNames": [
@@ -523,17 +523,8 @@
       "emitted": true
     },
     {
-      "name": "images/joe.7245a.jpg",
-      "size": 45216,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "css/c392f9775a9a5792a0ad.cea65.css",
-      "size": 14013,
+      "name": "css/5036f1c231cac33f995c.8d741.css",
+      "size": 14043,
       "chunks": [
         0
       ],
@@ -543,8 +534,8 @@
       "emitted": true
     },
     {
-      "name": "js/source.1a5ad.js",
-      "size": 110848,
+      "name": "js/source.6bbc9.js",
+      "size": 117916,
       "chunks": [
         0
       ],
@@ -554,8 +545,8 @@
       "emitted": true
     },
     {
-      "name": "css/c392f9775a9a5792a0ad.cea65.css.map",
-      "size": 8859,
+      "name": "css/5036f1c231cac33f995c.8d741.css.map",
+      "size": 8908,
       "chunks": [
         0
       ],
@@ -565,8 +556,8 @@
       "emitted": true
     },
     {
-      "name": "js/source.1a5ad.js.map",
-      "size": 263630,
+      "name": "js/source.6bbc9.js.map",
+      "size": 270668,
       "chunks": [
         0
       ],
@@ -592,10 +583,10 @@
         0
       ],
       "assets": [
-        "css/c392f9775a9a5792a0ad.cea65.css",
-        "js/source.1a5ad.js",
-        "css/c392f9775a9a5792a0ad.cea65.css.map",
-        "js/source.1a5ad.js.map"
+        "css/5036f1c231cac33f995c.8d741.css",
+        "js/source.6bbc9.js",
+        "css/5036f1c231cac33f995c.8d741.css.map",
+        "js/source.6bbc9.js.map"
       ],
       "children": {
       },
@@ -609,10 +600,10 @@
         0
       ],
       "assets": [
-        "css/c392f9775a9a5792a0ad.cea65.css",
-        "js/source.1a5ad.js",
-        "css/c392f9775a9a5792a0ad.cea65.css.map",
-        "js/source.1a5ad.js.map"
+        "css/5036f1c231cac33f995c.8d741.css",
+        "js/source.6bbc9.js",
+        "css/5036f1c231cac33f995c.8d741.css.map",
+        "js/source.6bbc9.js.map"
       ],
       "children": {
       },
@@ -626,17 +617,17 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 141408,
+      "size": 148488,
       "names": [
         "source"
       ],
       "files": [
-        "css/c392f9775a9a5792a0ad.cea65.css",
-        "js/source.1a5ad.js",
-        "css/c392f9775a9a5792a0ad.cea65.css.map",
-        "js/source.1a5ad.js.map"
+        "css/5036f1c231cac33f995c.8d741.css",
+        "js/source.6bbc9.js",
+        "css/5036f1c231cac33f995c.8d741.css.map",
+        "js/source.6bbc9.js.map"
       ],
-      "hash": "1a5ad2222e29216440c6",
+      "hash": "6bbc9fb7a7572a3fc021",
       "siblings": [
       ],
       "parents": [
@@ -1230,7 +1221,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-15.4164c.jpg"
+            "images/photo-15.2d10b.jpg"
           ],
           "reasons": [
             {
@@ -1249,7 +1240,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-15.4164c.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-15.2d10b.jpg\";"
         },
         {
           "id": 8,
@@ -1299,7 +1290,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-14.3eb7a.jpg"
+            "images/photo-14.eac87.jpg"
           ],
           "reasons": [
             {
@@ -1318,7 +1309,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-14.3eb7a.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-14.eac87.jpg\";"
         },
         {
           "id": 9,
@@ -1368,7 +1359,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-13.2a38b.jpg"
+            "images/photo-13.8da7a.jpg"
           ],
           "reasons": [
             {
@@ -1387,7 +1378,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-13.2a38b.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-13.8da7a.jpg\";"
         },
         {
           "id": 10,
@@ -1437,7 +1428,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-12.b26a7.jpg"
+            "images/photo-12.def5d.jpg"
           ],
           "reasons": [
             {
@@ -1456,7 +1447,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-12.b26a7.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-12.def5d.jpg\";"
         },
         {
           "id": 11,
@@ -1506,7 +1497,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-11.213e0.jpg"
+            "images/photo-11.098bd.jpg"
           ],
           "reasons": [
             {
@@ -1525,7 +1516,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-11.213e0.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-11.098bd.jpg\";"
         },
         {
           "id": 12,
@@ -1575,7 +1566,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-10.36139.jpg"
+            "images/photo-10.c5d38.jpg"
           ],
           "reasons": [
             {
@@ -1594,7 +1585,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-10.36139.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-10.c5d38.jpg\";"
         },
         {
           "id": 13,
@@ -1644,7 +1635,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-9.d9ea8.jpg"
+            "images/photo-9.520a2.jpg"
           ],
           "reasons": [
             {
@@ -1663,7 +1654,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-9.d9ea8.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-9.520a2.jpg\";"
         },
         {
           "id": 14,
@@ -1713,7 +1704,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-8.ba9f8.jpg"
+            "images/photo-8.6a77f.jpg"
           ],
           "reasons": [
             {
@@ -1732,7 +1723,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-8.ba9f8.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-8.6a77f.jpg\";"
         },
         {
           "id": 15,
@@ -1782,7 +1773,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-7.590b1.jpg"
+            "images/photo-7.f3bf8.jpg"
           ],
           "reasons": [
             {
@@ -1801,7 +1792,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-7.590b1.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-7.f3bf8.jpg\";"
         },
         {
           "id": 16,
@@ -1851,7 +1842,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-6.147f7.jpg"
+            "images/photo-6.cff3f.jpg"
           ],
           "reasons": [
             {
@@ -1870,7 +1861,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-6.147f7.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-6.cff3f.jpg\";"
         },
         {
           "id": 17,
@@ -1920,7 +1911,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-5.78cd2.jpg"
+            "images/photo-5.1e3b3.jpg"
           ],
           "reasons": [
             {
@@ -1939,7 +1930,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-5.78cd2.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-5.1e3b3.jpg\";"
         },
         {
           "id": 18,
@@ -1989,7 +1980,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-4.ebae5.jpg"
+            "images/photo-4.97824.jpg"
           ],
           "reasons": [
             {
@@ -2008,7 +1999,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-4.ebae5.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-4.97824.jpg\";"
         },
         {
           "id": 19,
@@ -2058,7 +2049,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-3.697b9.jpg"
+            "images/photo-3.e4bcf.jpg"
           ],
           "reasons": [
             {
@@ -2077,7 +2068,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-3.697b9.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-3.e4bcf.jpg\";"
         },
         {
           "id": 20,
@@ -2127,7 +2118,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-2.03a88.jpg"
+            "images/photo-2.e6949.jpg"
           ],
           "reasons": [
             {
@@ -2146,7 +2137,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-2.03a88.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-2.e6949.jpg\";"
         },
         {
           "id": 21,
@@ -2196,7 +2187,7 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/photo-1.ff648.jpg"
+            "images/photo-1.f2997.jpg"
           ],
           "reasons": [
             {
@@ -2215,7 +2206,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "module.exports = __webpack_public_path__ + \"images/photo-1.ff648.jpg\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/photo-1.f2997.jpg\";"
         },
         {
           "id": 22,
@@ -2340,11 +2331,11 @@
         },
         {
           "id": 24,
-          "identifier": "/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/url-loader/dist/cjs.js??ref--6!/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/assets/images/joe.jpg",
-          "name": "./source/theme/assets/images/joe.jpg",
+          "identifier": "/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/url-loader/dist/cjs.js??ref--6!/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/assets/images/nasa.jpg",
+          "name": "./source/theme/assets/images/nasa.jpg",
           "index": 24,
           "index2": 20,
-          "size": 66,
+          "size": 7114,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -2381,7 +2372,6 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/joe.7245a.jpg"
           ],
           "reasons": [
             {
@@ -2390,8 +2380,8 @@
               "module": "./source/components/Profile.js",
               "moduleName": "./source/components/Profile.js",
               "type": "cjs require",
-              "userRequest": "../theme/assets/images/joe",
-              "loc": "10:34-71"
+              "userRequest": "../theme/assets/images/nasa",
+              "loc": "10:35-73"
             }
           ],
           "usedExports": true,
@@ -2400,7 +2390,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 4,
-          "source": "module.exports = __webpack_public_path__ + \"images/joe.7245a.jpg\";"
+          "source": "module.exports = \"data:image/jpeg;base64,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\""
         },
         {
           "id": 25,
@@ -2408,7 +2398,7 @@
           "name": "./source/components/Profile.js",
           "index": 23,
           "index2": 21,
-          "size": 1823,
+          "size": 1825,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -2458,7 +2448,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 3,
-          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _joe = _interopRequireDefault(require(\"../theme/assets/images/joe\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\n// Core\n// Instruments\nclass Profile extends _react.Component {\n  render() {\n    return _react.default.createElement(\"div\", {\n      className: \"profile\"\n    }, _react.default.createElement(\"img\", {\n      src: _joe.default\n    }), _react.default.createElement(\"div\", null, _react.default.createElement(\"div\", {\n      className: \"nickname\"\n    }, \"Joey66\"), _react.default.createElement(\"div\", {\n      className: \"stats\"\n    }, _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"39\\xA0\"), _react.default.createElement(\"span\", null, \"posts\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"1256\\xA0\"), _react.default.createElement(\"span\", null, \"followers\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"7\\xA0\"), _react.default.createElement(\"span\", null, \"following\"))), _react.default.createElement(\"div\", {\n      className: \"name\"\n    }, \"Joey Tribbiani\")));\n  }\n\n}\n\nexports.default = Profile;"
+          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _nasa = _interopRequireDefault(require(\"../theme/assets/images/nasa\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\n// Core\n// Instruments\nclass Profile extends _react.Component {\n  render() {\n    return _react.default.createElement(\"div\", {\n      className: \"profile\"\n    }, _react.default.createElement(\"img\", {\n      src: _nasa.default\n    }), _react.default.createElement(\"div\", null, _react.default.createElement(\"div\", {\n      className: \"nickname\"\n    }, \"nasa\"), _react.default.createElement(\"div\", {\n      className: \"stats\"\n    }, _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"2398\\xA0\"), _react.default.createElement(\"span\", null, \"posts\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"33.6 million\\xA0\"), _react.default.createElement(\"span\", null, \"followers\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"69\\xA0\"), _react.default.createElement(\"span\", null, \"following\"))), _react.default.createElement(\"div\", {\n      className: \"name\"\n    }, \"NASA\")));\n  }\n\n}\n\nexports.default = Profile;"
         },
         {
           "id": 26,
@@ -2784,7 +2774,7 @@
           "name": "css ./node_modules/css-loader??ref--7-1!./node_modules/postcss-loader/lib??postcss!./source/theme/init.css",
           "index": 16,
           "index2": 14,
-          "size": 13954,
+          "size": 13984,
           "built": false,
           "optional": false,
           "prefetched": false,
@@ -4033,7 +4023,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-15.4164c.jpg"
+        "images/photo-15.2d10b.jpg"
       ],
       "reasons": [
         {
@@ -4052,7 +4042,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-15.4164c.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-15.2d10b.jpg\";"
     },
     {
       "id": 8,
@@ -4102,7 +4092,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-14.3eb7a.jpg"
+        "images/photo-14.eac87.jpg"
       ],
       "reasons": [
         {
@@ -4121,7 +4111,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-14.3eb7a.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-14.eac87.jpg\";"
     },
     {
       "id": 9,
@@ -4171,7 +4161,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-13.2a38b.jpg"
+        "images/photo-13.8da7a.jpg"
       ],
       "reasons": [
         {
@@ -4190,7 +4180,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-13.2a38b.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-13.8da7a.jpg\";"
     },
     {
       "id": 10,
@@ -4240,7 +4230,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-12.b26a7.jpg"
+        "images/photo-12.def5d.jpg"
       ],
       "reasons": [
         {
@@ -4259,7 +4249,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-12.b26a7.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-12.def5d.jpg\";"
     },
     {
       "id": 11,
@@ -4309,7 +4299,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-11.213e0.jpg"
+        "images/photo-11.098bd.jpg"
       ],
       "reasons": [
         {
@@ -4328,7 +4318,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-11.213e0.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-11.098bd.jpg\";"
     },
     {
       "id": 12,
@@ -4378,7 +4368,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-10.36139.jpg"
+        "images/photo-10.c5d38.jpg"
       ],
       "reasons": [
         {
@@ -4397,7 +4387,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-10.36139.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-10.c5d38.jpg\";"
     },
     {
       "id": 13,
@@ -4447,7 +4437,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-9.d9ea8.jpg"
+        "images/photo-9.520a2.jpg"
       ],
       "reasons": [
         {
@@ -4466,7 +4456,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-9.d9ea8.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-9.520a2.jpg\";"
     },
     {
       "id": 14,
@@ -4516,7 +4506,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-8.ba9f8.jpg"
+        "images/photo-8.6a77f.jpg"
       ],
       "reasons": [
         {
@@ -4535,7 +4525,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-8.ba9f8.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-8.6a77f.jpg\";"
     },
     {
       "id": 15,
@@ -4585,7 +4575,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-7.590b1.jpg"
+        "images/photo-7.f3bf8.jpg"
       ],
       "reasons": [
         {
@@ -4604,7 +4594,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-7.590b1.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-7.f3bf8.jpg\";"
     },
     {
       "id": 16,
@@ -4654,7 +4644,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-6.147f7.jpg"
+        "images/photo-6.cff3f.jpg"
       ],
       "reasons": [
         {
@@ -4673,7 +4663,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-6.147f7.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-6.cff3f.jpg\";"
     },
     {
       "id": 17,
@@ -4723,7 +4713,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-5.78cd2.jpg"
+        "images/photo-5.1e3b3.jpg"
       ],
       "reasons": [
         {
@@ -4742,7 +4732,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-5.78cd2.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-5.1e3b3.jpg\";"
     },
     {
       "id": 18,
@@ -4792,7 +4782,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-4.ebae5.jpg"
+        "images/photo-4.97824.jpg"
       ],
       "reasons": [
         {
@@ -4811,7 +4801,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-4.ebae5.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-4.97824.jpg\";"
     },
     {
       "id": 19,
@@ -4861,7 +4851,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-3.697b9.jpg"
+        "images/photo-3.e4bcf.jpg"
       ],
       "reasons": [
         {
@@ -4880,7 +4870,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-3.697b9.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-3.e4bcf.jpg\";"
     },
     {
       "id": 20,
@@ -4930,7 +4920,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-2.03a88.jpg"
+        "images/photo-2.e6949.jpg"
       ],
       "reasons": [
         {
@@ -4949,7 +4939,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-2.03a88.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-2.e6949.jpg\";"
     },
     {
       "id": 21,
@@ -4999,7 +4989,7 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/photo-1.ff648.jpg"
+        "images/photo-1.f2997.jpg"
       ],
       "reasons": [
         {
@@ -5018,7 +5008,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "module.exports = __webpack_public_path__ + \"images/photo-1.ff648.jpg\";"
+      "source": "module.exports = __webpack_public_path__ + \"images/photo-1.f2997.jpg\";"
     },
     {
       "id": 22,
@@ -5143,11 +5133,11 @@
     },
     {
       "id": 24,
-      "identifier": "/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/url-loader/dist/cjs.js??ref--6!/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/assets/images/joe.jpg",
-      "name": "./source/theme/assets/images/joe.jpg",
+      "identifier": "/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/url-loader/dist/cjs.js??ref--6!/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/assets/images/nasa.jpg",
+      "name": "./source/theme/assets/images/nasa.jpg",
       "index": 24,
       "index2": 20,
-      "size": 66,
+      "size": 7114,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -5184,7 +5174,6 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "images/joe.7245a.jpg"
       ],
       "reasons": [
         {
@@ -5193,8 +5182,8 @@
           "module": "./source/components/Profile.js",
           "moduleName": "./source/components/Profile.js",
           "type": "cjs require",
-          "userRequest": "../theme/assets/images/joe",
-          "loc": "10:34-71"
+          "userRequest": "../theme/assets/images/nasa",
+          "loc": "10:35-73"
         }
       ],
       "usedExports": true,
@@ -5203,7 +5192,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 4,
-      "source": "module.exports = __webpack_public_path__ + \"images/joe.7245a.jpg\";"
+      "source": "module.exports = \"data:image/jpeg;base64,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\""
     },
     {
       "id": 25,
@@ -5211,7 +5200,7 @@
       "name": "./source/components/Profile.js",
       "index": 23,
       "index2": 21,
-      "size": 1823,
+      "size": 1825,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -5261,7 +5250,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 3,
-      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _joe = _interopRequireDefault(require(\"../theme/assets/images/joe\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\n// Core\n// Instruments\nclass Profile extends _react.Component {\n  render() {\n    return _react.default.createElement(\"div\", {\n      className: \"profile\"\n    }, _react.default.createElement(\"img\", {\n      src: _joe.default\n    }), _react.default.createElement(\"div\", null, _react.default.createElement(\"div\", {\n      className: \"nickname\"\n    }, \"Joey66\"), _react.default.createElement(\"div\", {\n      className: \"stats\"\n    }, _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"39\\xA0\"), _react.default.createElement(\"span\", null, \"posts\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"1256\\xA0\"), _react.default.createElement(\"span\", null, \"followers\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"7\\xA0\"), _react.default.createElement(\"span\", null, \"following\"))), _react.default.createElement(\"div\", {\n      className: \"name\"\n    }, \"Joey Tribbiani\")));\n  }\n\n}\n\nexports.default = Profile;"
+      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _nasa = _interopRequireDefault(require(\"../theme/assets/images/nasa\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\n// Core\n// Instruments\nclass Profile extends _react.Component {\n  render() {\n    return _react.default.createElement(\"div\", {\n      className: \"profile\"\n    }, _react.default.createElement(\"img\", {\n      src: _nasa.default\n    }), _react.default.createElement(\"div\", null, _react.default.createElement(\"div\", {\n      className: \"nickname\"\n    }, \"nasa\"), _react.default.createElement(\"div\", {\n      className: \"stats\"\n    }, _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"2398\\xA0\"), _react.default.createElement(\"span\", null, \"posts\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"33.6 million\\xA0\"), _react.default.createElement(\"span\", null, \"followers\")), _react.default.createElement(\"span\", null, _react.default.createElement(\"span\", null, \"69\\xA0\"), _react.default.createElement(\"span\", null, \"following\"))), _react.default.createElement(\"div\", {\n      className: \"name\"\n    }, \"NASA\")));\n  }\n\n}\n\nexports.default = Profile;"
     },
     {
       "id": 26,
@@ -5587,7 +5576,7 @@
       "name": "css ./node_modules/css-loader??ref--7-1!./node_modules/postcss-loader/lib??postcss!./source/theme/init.css",
       "index": 16,
       "index2": 14,
-      "size": 13954,
+      "size": 13984,
       "built": false,
       "optional": false,
       "prefetched": false,
@@ -6250,53 +6239,8 @@
       },
       "assets": [
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
-          "size": 2367,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
-          "size": 575,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
-          "size": 494,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-          "size": 896,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
-          "size": 896,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
-          "size": 824,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
+          "size": 1690,
           "chunks": [
           ],
           "chunkNames": [
@@ -6322,8 +6266,17 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
-          "size": 859,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
+          "size": 679,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
+          "size": 824,
           "chunks": [
           ],
           "chunkNames": [
@@ -6340,8 +6293,44 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
-          "size": 679,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
+          "size": 859,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+          "size": 494,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
+          "size": 575,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+          "size": 896,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
+          "size": 551,
           "chunks": [
           ],
           "chunkNames": [
@@ -6367,15 +6356,6 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
-          "size": 455,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
           "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
           "size": 771,
           "chunks": [
@@ -6385,26 +6365,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
-          "size": 627,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-          "size": 1690,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
-          "size": 953,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
+          "size": 455,
           "chunks": [
           ],
           "chunkNames": [
@@ -6421,6 +6383,33 @@
           "emitted": true
         },
         {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
+          "size": 627,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
+          "size": 953,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
+          "size": 2367,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
           "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
           "size": 1174,
           "chunks": [
@@ -6430,8 +6419,98 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
-          "size": 551,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
+          "size": 896,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+          "size": 4385,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
+          "size": 5204,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+          "size": 5111,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
+          "size": 5309,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
+          "size": 16064,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
+          "size": 14428,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
+          "size": 1860,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
+          "size": 6537,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
+          "size": 14552,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
+          "size": 15923,
           "chunks": [
           ],
           "chunkNames": [
@@ -6466,89 +6545,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
-          "size": 4385,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
-          "size": 1860,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
-          "size": 5309,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
-          "size": 5111,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
-          "size": 5204,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
-          "size": 6537,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
-          "size": 15923,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-          "size": 16064,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
-          "size": 14552,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
-          "size": 14428,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
+          "size": 1066,
           "chunks": [
           ],
           "chunkNames": [
@@ -6567,15 +6565,6 @@
         {
           "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png",
           "size": 4888,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
-          "size": 1066,
           "chunks": [
           ],
           "chunkNames": [
@@ -6610,7 +6599,7 @@
           "emitted": true
         },
         {
-          "name": "iconstats-a90bf30b584bf75c63f0.json",
+          "name": "iconstats-56ce8d4a44f43b9c6ba2.json",
           "size": 8341,
           "chunks": [
             0
@@ -6626,7 +6615,7 @@
             0
           ],
           "assets": [
-            "iconstats-a90bf30b584bf75c63f0.json"
+            "iconstats-56ce8d4a44f43b9c6ba2.json"
           ],
           "children": {
           },
@@ -6640,7 +6629,7 @@
             0
           ],
           "assets": [
-            "iconstats-a90bf30b584bf75c63f0.json"
+            "iconstats-56ce8d4a44f43b9c6ba2.json"
           ],
           "children": {
           },
@@ -6658,9 +6647,9 @@
           "names": [
           ],
           "files": [
-            "iconstats-a90bf30b584bf75c63f0.json"
+            "iconstats-56ce8d4a44f43b9c6ba2.json"
           ],
-          "hash": "d1eec112c792cc742975",
+          "hash": "dd651a0d5d918d09877d",
           "siblings": [
           ],
           "parents": [
@@ -6692,43 +6681,43 @@
               "errors": 0,
               "warnings": 0,
               "assets": [
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196.cache"
@@ -6749,7 +6738,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-lesson\\\">\",\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-lesson\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
+              "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-lesson\\\">\",\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-lesson\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
             }
           ],
           "filteredModules": 0,
@@ -6789,43 +6778,43 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196.cache"
@@ -6846,7 +6835,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-lesson\\\">\",\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-lesson\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
+          "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-lesson\\\">\",\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-lesson\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-lesson/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
         }
       ],
       "filteredModules": 0,
@@ -7392,14 +7381,14 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 26434,
+          "size": 26513,
           "names": [
             "mini-css-extract-plugin"
           ],
           "files": [
             "*"
           ],
-          "hash": "d7155b6d0400fd3f12e2",
+          "hash": "40068a57bf3df3318cfb",
           "siblings": [
           ],
           "parents": [
@@ -7752,7 +7741,7 @@
               "name": "./node_modules/css-loader??ref--7-1!./node_modules/postcss-loader/lib??postcss!./source/theme/init.css",
               "index": 0,
               "index2": 7,
-              "size": 13749,
+              "size": 13828,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -7786,7 +7775,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "var escape = require(\"../../node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(true);\n// imports\n\n\n// module\nexports.push([module.id, \"a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,main,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{border:0;font:inherit;font-size:100%;margin:0;padding:0;vertical-align:initial}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}[hidden]{display:none}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:\\\"\\\";content:none}table{border-collapse:collapse;border-spacing:0}:root{--paletteColor1:#000;--paletteColor2:#fff;--paletteColor3:#dbdbdb;--paletteColor4:#262626;--paletteColor5:#fafafa;--paletteColor6:#efefef;--rgbaColor1:rgba(0,0,0,0.31)}*{box-sizing:border-box;outline:0}body{-moz-osx-font-smoothing:grayscale;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;font-family:roboto mono,roboto,system-ui;font-feature-settings:none;font-variant-ligatures:none;min-height:100vh}body section{width:100%}.content{background-color:var(--paletteColor5);border-top:1px solid var(--paletteColor3);min-height:100vh}.header{align-items:center;display:flex;justify-content:space-around;margin:25px auto 20px;max-width:930px}.header div a{background-image:url(\" + escape(require(\"./assets/images/instagram-logo.png\")) + \");background-repeat:no-repeat;background-size:176px 35px;cursor:pointer;display:inline-block;height:35px;margin-top:-7px;width:176px}.header input{background-image:url(\" + escape(require(\"./assets/images/search.png\")) + \");background-position:10px 50%;background-repeat:no-repeat;background-size:10px 10px;border:1px solid var(--paletteColor3);border-radius:3px;box-sizing:border-box;color:var(--paletteColor4);font-size:14px;height:28px;margin-top:1px;min-width:215px;padding:5px 10px 3px 26px}.header nav{display:flex;justify-content:flex-end;padding-top:3px}.header nav a{cursor:pointer;display:inline-block;height:20px;width:20px}.header nav .explore{background-image:url(\" + escape(require(\"./assets/images/explore.png\")) + \")}.header nav .explore,.header nav .likes{background-size:20px 20px;margin-right:35px}.header nav .likes{background-image:url(\" + escape(require(\"./assets/images/likes.png\")) + \")}.header nav .settings{background-image:url(\" + escape(require(\"./assets/images/settings.png\")) + \");background-size:20px 20px}.photo{cursor:pointer;flex:1 1 297px;padding:10px}.photo img{max-width:100%}.photos{display:flex;flex-wrap:wrap;margin:0 auto;max-width:935px}.profile{border-bottom:1px solid var(--paletteColor6);display:flex;justify-content:center;margin:57px auto 45px;max-width:930px}.profile img{border-radius:50%;cursor:pointer;height:152px;margin:0 95px 25px 70px;width:152px}.profile div .nickname{font-size:32px;font-weight:200;line-height:40px;margin-bottom:18px;margin-top:5px}.profile div .stats{font-size:20px;margin-bottom:20px;padding-left:3px}.profile div .stats span span:nth-child(odd){font-weight:700}.profile div .stats span span:nth-child(2n){margin-right:30px}.profile div .name{font-size:20px;font-weight:500}@media  (max-width:414px),(min-width:415px) and (max-width:667px){.header{flex-direction:column}.header div{display:flex;justify-content:center}.header div,.header input{margin-bottom:15px}.header nav{justify-content:center}.profile{align-items:center;flex-direction:column;max-width:100%;padding-bottom:40px}.profile img{height:220px;margin:0 0 25px;width:220px}.profile div .nickname{font-size:32px;font-weight:500;text-align:center}.profile div .stats{display:flex;flex-direction:column;text-align:center}.profile div .stats>span{margin-bottom:9px}.profile div .stats>span span:nth-child(2n){margin-right:0}.profile div .name{text-align:center}}@media  (min-width:668px) and (max-width:768px){.header{max-width:750px}}@media  (max-width:414px){.photo{flex:1 1 100px;padding:5px}}@media  (min-width:415px) and (max-width:667px){.photo{flex:1 1 150px;padding:5px}}@media  (min-width:668px) and (max-width:768px),(min-width:769px) and (max-width:1024px){.photo{flex:1 1 190px;padding:7px}}\", \"\", {\"version\":3,\"sources\":[\"/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/reset-css/reset.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/palette.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/globals.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/content.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/header.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photo.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photos.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/profile.css\"],\"names\":[],\"mappings\":\"AAKA,gaAeC,SAAU,aACV,eAHA,SAAU,UACC,sBAIc,CACzB,mFAIA,aAAe,CACf,SAGG,YAAc,CACjB,KAEA,aAAe,CACf,MAEA,eAAiB,CACjB,aAEA,WAAa,CACb,oDAGA,WAAY,YACE,CACd,MAEA,yBAA0B,gBACR,CAClB,MCjDG,qBAAsB,qBACA,wBACG,wBACA,wBACA,wBACA,6BAGD,CAC3B,ECVG,sBAAuB,SACZ,CACd,KAMG,kCAA4B,2BAQA,0BAR5B,mCAA4B,8BAH5B,yCAA4C,2BAI5C,4BAA6B,gBAWX,CAElB,aACI,UAAY,CACf,SCxBD,sCAAuC,0CACI,gBACzB,CACrB,QCCG,mBAFA,aAAc,6BACgB,sBAE9B,eAAiB,CAIb,cAKI,+CAA4D,4BAC/B,2BACD,eAN5B,qBAAsB,YAET,gBADb,WAAa,CAOhB,cAYD,+CAAoD,6BACpD,4BAA6B,0BAP7B,sCAAuC,kBACpB,sBAInB,2BADA,eALA,YAAa,eADb,gBAAiB,yBAIU,CAS9B,YAGG,aAAc,yBACY,eACT,CAEjB,cAII,eAHA,qBAAsB,YACtB,UAAY,CAGf,qBAGG,8CAAqD,CAGxD,wCAFG,0BAA2B,iBACR,CAGvB,mBACI,8CAAmD,CAGtD,sBAGG,+CAAsD,yBAC3B,CAC9B,OChEL,eAAgB,eACA,YACF,CAEd,WACI,cAAgB,CACnB,QCND,aAAc,eACE,cACD,eACE,CACpB,SCEG,6CAJA,aAAc,uBACU,sBACD,eACN,CAGjB,aAGI,kBAAmB,eADnB,aAAc,wBADd,WAAa,CAKhB,uBAIO,eAAgB,gBAChB,iBAAkB,mBAElB,cAAgB,CAEnB,oBAGG,eAAgB,mBACI,gBACF,CAGd,6CACI,eAAiB,CACpB,4CAGG,iBAAmB,CACtB,mBAKL,eAAgB,eACC,CHwBzB,kEAlEJ,QAmEQ,qBAAuB,CAEvB,YACI,aAAc,sBACU,CAE3B,0BADG,kBAAoB,CAKvB,YAGG,sBAAwB,CAC3B,SGhCD,mBADA,sBADA,eAAgB,mBAGK,CAErB,aAEI,aAAc,gBADd,WAAa,CAGhB,uBAIO,eAAgB,gBACC,iBACE,CACtB,oBAGG,aAAc,sBACS,iBACJ,CAEnB,yBACI,iBAAmB,CAEnB,4CACI,cAAgB,CACnB,mBAKL,iBAAmB,CACtB,CHCR,gDAlFL,QAqFQ,eAAiB,CAExB,CADI,0BCxFL,OAUQ,eAAgB,WACH,CAYpB,CAXI,gDAZL,OAeQ,eAAgB,WACH,CAOpB,CANI,yFAjBL,OAoBQ,eAAgB,WACH,CAEpB,CADI\",\"file\":\"init.css\",\"sourcesContent\":[\"/* http://meyerweb.com/eric/tools/css/reset/\\n   v4.0 | 20180602\\n   License: none (public domain)\\n*/\\n\\nhtml, body, div, span, applet, object, iframe,\\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\\na, abbr, acronym, address, big, cite, code,\\ndel, dfn, em, img, ins, kbd, q, s, samp,\\nsmall, strike, strong, sub, sup, tt, var,\\nb, u, i, center,\\ndl, dt, dd, ol, ul, li,\\nfieldset, form, label, legend,\\ntable, caption, tbody, tfoot, thead, tr, th, td,\\narticle, aside, canvas, details, embed,\\nfigure, figcaption, footer, header, hgroup,\\nmain, menu, nav, output, ruby, section, summary,\\ntime, mark, audio, video {\\n\\tmargin: 0;\\n\\tpadding: 0;\\n\\tborder: 0;\\n\\tfont-size: 100%;\\n\\tfont: inherit;\\n\\tvertical-align: baseline;\\n}\\n/* HTML5 display-role reset for older browsers */\\narticle, aside, details, figcaption, figure,\\nfooter, header, hgroup, main, menu, nav, section {\\n\\tdisplay: block;\\n}\\n/* HTML5 hidden-attribute fix for newer browsers */\\n*[hidden] {\\n    display: none;\\n}\\nbody {\\n\\tline-height: 1;\\n}\\nol, ul {\\n\\tlist-style: none;\\n}\\nblockquote, q {\\n\\tquotes: none;\\n}\\nblockquote:before, blockquote:after,\\nq:before, q:after {\\n\\tcontent: '';\\n\\tcontent: none;\\n}\\ntable {\\n\\tborder-collapse: collapse;\\n\\tborder-spacing: 0;\\n}\\n\",\":root {\\n    /* HEX */\\n    --paletteColor1: #000;\\n    --paletteColor2: #fff;\\n    --paletteColor3: #dbdbdb;\\n    --paletteColor4: #262626;\\n    --paletteColor5: #fafafa;\\n    --paletteColor6: #efefef;\\n\\n    /* RGBA */\\n    --rgbaColor1: #00000050;\\n}\\n\",\"* {\\n    box-sizing: border-box;\\n    outline: 0;\\n}\\n\\nbody {\\n    font-family: roboto mono, roboto, system-ui;\\n\\n    /* Зачаровать шрифты */\\n    font-smoothing: antialiased;\\n    font-variant-ligatures: none;\\n\\n    /**\\n     * Фикс для мобильного сафари, чтобы при поворотах он не склеивал и не терял контент.\\n     * Префиксы установлены вручную, так как на момент 13.03.2018\\n     * autoprefixer этого не делал автоматически.\\n     */\\n    -moz-text-size-adjust: 100%;\\n    -webkit-text-size-adjust: 100%;\\n    -ms-text-size-adjust: 100%;\\n\\n    min-height: 100vh;\\n\\n    & section {\\n        width: 100%;\\n    }\\n}\",\".content {\\n    background-color: var(--paletteColor5);\\n    border-top: 1px solid var(--paletteColor3);\\n    min-height: 100vh;\\n}\\n\",\"@import '../breakpoints';\\n\\n.header {\\n    display: flex;\\n    justify-content: space-around;\\n    align-items: center;\\n    max-width: 930px;\\n    margin: 25px auto 20px;\\n\\n    & div {\\n        & a {\\n            display: inline-block;\\n            width: 176px;\\n            height: 35px;\\n            margin-top: -7px;\\n            background-image: url('./assets/images/instagram-logo.png');\\n            background-repeat: no-repeat;\\n            background-size: 176px 35px;\\n            cursor: pointer;\\n        }\\n    }\\n\\n    & input {\\n        min-width: 215px;\\n        height: 28px;\\n        border: 1px solid var(--paletteColor3);\\n        border-radius: 3px;\\n        padding: 5px 10px 3px 26px;\\n        margin-top: 1px;\\n        font-size: 14px;\\n        color: var(--paletteColor4);\\n        background-image: url('./assets/images/search.png');\\n        background-repeat: no-repeat;\\n        background-size: 10px 10px;\\n        background-position: 10px 50%;\\n        box-sizing: border-box;\\n    }\\n\\n    & nav {\\n        display: flex;\\n        justify-content: flex-end;\\n        padding-top: 3px;\\n\\n        & a {\\n            display: inline-block;\\n            width: 20px;\\n            height: 20px;\\n            cursor: pointer;\\n        }\\n\\n        & .explore {\\n            background-image: url('./assets/images/explore.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .likes {\\n            background-image: url('./assets/images/likes.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .settings {\\n            background-image: url('./assets/images/settings.png');\\n            background-size: 20px 20px;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        flex-direction: column;\\n\\n        & div {\\n            display: flex;\\n            justify-content: center;\\n            margin-bottom: 15px;\\n        }\\n\\n        & input {\\n            margin-bottom: 15px;\\n        }\\n\\n        & nav {\\n            justify-content: center;\\n        }\\n    }\\n\\n    @media (--tabletPortrait) {\\n        max-width: 750px;\\n    }\\n}\\n\",\".photo {\\n    cursor: pointer;\\n    flex: 1 1 297px;\\n    padding: 10px;\\n\\n    & img {\\n        max-width: 100%;\\n    }\\n\\n    @media (--phonePortrait) {\\n        flex: 1 1 100px;\\n        padding: 5px;\\n    }\\n\\n    @media (--phoneLandscape) {\\n        flex: 1 1 150px;\\n        padding: 5px;\\n    }\\n\\n    @media (--tabletPortrait), (--tabletLandscape) {\\n        flex: 1 1 190px;\\n        padding: 7px;\\n    }\\n}\\n\",\".photos {\\n    display: flex;\\n    flex-wrap: wrap;\\n    margin: 0 auto;\\n    max-width: 935px;\\n}\\n\",\"@import '../breakpoints';\\n\\n.profile {\\n    display: flex;\\n    justify-content: center;\\n    margin: 57px auto 45px;\\n    max-width: 930px;\\n    border-bottom: 1px solid var(--paletteColor6);\\n\\n    & img {\\n        width: 152px;\\n        height: 152px;\\n        border-radius: 50%;\\n        margin: 0 95px 25px 70px;\\n        cursor: pointer;\\n    }\\n\\n    & div {\\n        & .nickname {\\n            font-size: 32px;\\n            line-height: 40px;\\n            font-weight: 200;\\n            margin-top: 5px;\\n            margin-bottom: 18px;\\n        }\\n\\n        & .stats {\\n            font-size: 20px;\\n            margin-bottom: 20px;\\n            padding-left: 3px;\\n\\n            & span {\\n                & span:nth-child(odd) {\\n                    font-weight: 700;\\n                }\\n\\n                & span:nth-child(even) {\\n                    margin-right: 30px;\\n                }\\n            }\\n        }\\n\\n        & .name {\\n            font-size: 20px;\\n            font-weight: 500;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        max-width: 100%;\\n        flex-direction: column;\\n        align-items: center;\\n        padding-bottom: 40px;\\n\\n        & img {\\n            width: 220px;\\n            height: 220px;\\n            margin: 0 0 25px 0;\\n        }\\n\\n        & div {\\n            & .nickname {\\n                font-size: 32px;\\n                font-weight: 500;\\n                text-align: center;\\n            }\\n\\n            & .stats {\\n                display: flex;\\n                flex-direction: column;\\n                text-align: center;\\n\\n                & > span {\\n                    margin-bottom: 9px;\\n\\n                    & span:nth-child(even) {\\n                        margin-right: 0;\\n                    }\\n                }\\n            }\\n\\n            & .name {\\n                text-align: center;\\n            }\\n        }\\n    }\\n}\\n\"],\"sourceRoot\":\"\"}]);\n\n// exports\n"
+              "source": "var escape = require(\"../../node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(true);\n// imports\n\n\n// module\nexports.push([module.id, \"a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,main,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{border:0;font:inherit;font-size:100%;margin:0;padding:0;vertical-align:initial}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}[hidden]{display:none}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:\\\"\\\";content:none}table{border-collapse:collapse;border-spacing:0}:root{--paletteColor1:#000;--paletteColor2:#fff;--paletteColor3:#dbdbdb;--paletteColor4:#262626;--paletteColor5:#fafafa;--paletteColor6:#efefef;--rgbaColor1:rgba(0,0,0,0.31)}*{box-sizing:border-box;outline:0}body{-moz-osx-font-smoothing:grayscale;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;font-family:roboto mono,roboto,system-ui;font-feature-settings:none;font-variant-ligatures:none;min-height:100vh}body section{width:100%}.content{background-color:var(--paletteColor5);border-top:1px solid var(--paletteColor3);min-height:100vh}.header{align-items:center;display:flex;justify-content:space-around;margin:25px auto 20px;max-width:930px}.header div a{background-image:url(\" + escape(require(\"./assets/images/instagram-logo.png\")) + \");background-repeat:no-repeat;background-size:176px 35px;cursor:pointer;display:inline-block;height:35px;margin-top:-7px;width:176px}.header input{background-image:url(\" + escape(require(\"./assets/images/search.png\")) + \");background-position:10px 50%;background-repeat:no-repeat;background-size:10px 10px;border:1px solid var(--paletteColor3);border-radius:3px;box-sizing:border-box;color:var(--paletteColor4);font-size:14px;height:28px;margin-top:1px;min-width:215px;padding:5px 10px 3px 26px}.header nav{display:flex;justify-content:flex-end;padding-top:3px}.header nav a{cursor:pointer;display:inline-block;height:20px;width:20px}.header nav .explore{background-image:url(\" + escape(require(\"./assets/images/explore.png\")) + \")}.header nav .explore,.header nav .likes{background-size:20px 20px;margin-right:35px}.header nav .likes{background-image:url(\" + escape(require(\"./assets/images/likes.png\")) + \")}.header nav .settings{background-image:url(\" + escape(require(\"./assets/images/settings.png\")) + \");background-size:20px 20px}.photo{cursor:pointer;flex:1 1 297px;padding:10px}.photo img{max-width:100%}.photos{display:flex;flex-wrap:wrap;margin:0 auto;max-width:935px}.profile{border-bottom:1px solid var(--paletteColor6);display:flex;justify-content:center;margin:57px auto 45px;max-width:930px}.profile img{border:1px solid rgba(0,0,0,.1);border-radius:50%;cursor:pointer;height:152px;margin:0 95px 25px 70px;width:152px}.profile div .nickname{font-size:32px;font-weight:200;line-height:40px;margin-bottom:18px;margin-top:5px}.profile div .stats{font-size:20px;margin-bottom:20px;padding-left:3px}.profile div .stats span span:nth-child(odd){font-weight:700}.profile div .stats span span:nth-child(2n){margin-right:30px}.profile div .name{font-size:20px;font-weight:500}@media  (max-width:414px),(min-width:415px) and (max-width:667px){.header{flex-direction:column}.header div{display:flex;justify-content:center}.header div,.header input{margin-bottom:15px}.header nav{justify-content:center}.profile{align-items:center;flex-direction:column;max-width:100%;padding-bottom:40px}.profile img{height:77px;margin:0 0 25px;width:77px}.profile div .nickname{font-size:32px;font-weight:500;text-align:center}.profile div .stats{display:flex;flex-direction:column;text-align:center}.profile div .stats>span{margin-bottom:9px}.profile div .stats>span span:nth-child(2n){margin-right:0}.profile div .name{text-align:center}}@media  (min-width:668px) and (max-width:768px){.header{max-width:750px}}@media  (max-width:414px){.photo{flex:1 1 100px;padding:5px}}@media  (min-width:415px) and (max-width:667px){.photo{flex:1 1 150px;padding:5px}}@media  (min-width:668px) and (max-width:768px),(min-width:769px) and (max-width:1024px){.photo{flex:1 1 190px;padding:7px}}\", \"\", {\"version\":3,\"sources\":[\"/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/reset-css/reset.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/palette.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/globals.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/content.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/header.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photo.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photos.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/profile.css\"],\"names\":[],\"mappings\":\"AAKA,gaAeC,SAAU,aACV,eAHA,SAAU,UACC,sBAIc,CACzB,mFAIA,aAAe,CACf,SAGG,YAAc,CACjB,KAEA,aAAe,CACf,MAEA,eAAiB,CACjB,aAEA,WAAa,CACb,oDAGA,WAAY,YACE,CACd,MAEA,yBAA0B,gBACR,CAClB,MCjDG,qBAAsB,qBACA,wBACG,wBACA,wBACA,wBACA,6BAGD,CAC3B,ECVG,sBAAuB,SACZ,CACd,KAMG,kCAA4B,2BAQA,0BAR5B,mCAA4B,8BAH5B,yCAA4C,2BAI5C,4BAA6B,gBAWX,CAElB,aACI,UAAY,CACf,SCxBD,sCAAuC,0CACI,gBACzB,CACrB,QCCG,mBAFA,aAAc,6BACgB,sBAE9B,eAAiB,CAIb,cAKI,+CAA4D,4BAC/B,2BACD,eAN5B,qBAAsB,YAET,gBADb,WAAa,CAOhB,cAYD,+CAAoD,6BACpD,4BAA6B,0BAP7B,sCAAuC,kBACpB,sBAInB,2BADA,eALA,YAAa,eADb,gBAAiB,yBAIU,CAS9B,YAGG,aAAc,yBACY,eACT,CAEjB,cAII,eAHA,qBAAsB,YACtB,UAAY,CAGf,qBAGG,8CAAqD,CAGxD,wCAFG,0BAA2B,iBACR,CAGvB,mBACI,8CAAmD,CAGtD,sBAGG,+CAAsD,yBAC3B,CAC9B,OChEL,eAAgB,eACA,YACF,CAEd,WACI,cAAgB,CACnB,QCND,aAAc,eACE,cACD,eACE,CACpB,SCEG,6CAJA,aAAc,uBACU,sBACD,eACN,CAGjB,aAII,gCADA,kBAAmB,eADnB,aAAc,wBADd,WAAa,CAMhB,uBAIO,eAAgB,gBAChB,iBAAkB,mBAElB,cAAgB,CAEnB,oBAGG,eAAgB,mBACI,gBACF,CAGd,6CACI,eAAiB,CACpB,4CAGG,iBAAmB,CACtB,mBAKL,eAAgB,eACC,CHuBzB,kEAlEJ,QAmEQ,qBAAuB,CAEvB,YACI,aAAc,sBACU,CAE3B,0BADG,kBAAoB,CAKvB,YAGG,sBAAwB,CAC3B,SG/BD,mBADA,sBADA,eAAgB,mBAGK,CAErB,aAEI,YAAa,gBADb,UAAY,CAGf,uBAIO,eAAgB,gBACC,iBACE,CACtB,oBAGG,aAAc,sBACS,iBACJ,CAEnB,yBACI,iBAAmB,CAEnB,4CACI,cAAgB,CACnB,mBAKL,iBAAmB,CACtB,CHAR,gDAlFL,QAqFQ,eAAiB,CAExB,CADI,0BCxFL,OAUQ,eAAgB,WACH,CAYpB,CAXI,gDAZL,OAeQ,eAAgB,WACH,CAOpB,CANI,yFAjBL,OAoBQ,eAAgB,WACH,CAEpB,CADI\",\"file\":\"init.css\",\"sourcesContent\":[\"/* http://meyerweb.com/eric/tools/css/reset/\\n   v4.0 | 20180602\\n   License: none (public domain)\\n*/\\n\\nhtml, body, div, span, applet, object, iframe,\\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\\na, abbr, acronym, address, big, cite, code,\\ndel, dfn, em, img, ins, kbd, q, s, samp,\\nsmall, strike, strong, sub, sup, tt, var,\\nb, u, i, center,\\ndl, dt, dd, ol, ul, li,\\nfieldset, form, label, legend,\\ntable, caption, tbody, tfoot, thead, tr, th, td,\\narticle, aside, canvas, details, embed,\\nfigure, figcaption, footer, header, hgroup,\\nmain, menu, nav, output, ruby, section, summary,\\ntime, mark, audio, video {\\n\\tmargin: 0;\\n\\tpadding: 0;\\n\\tborder: 0;\\n\\tfont-size: 100%;\\n\\tfont: inherit;\\n\\tvertical-align: baseline;\\n}\\n/* HTML5 display-role reset for older browsers */\\narticle, aside, details, figcaption, figure,\\nfooter, header, hgroup, main, menu, nav, section {\\n\\tdisplay: block;\\n}\\n/* HTML5 hidden-attribute fix for newer browsers */\\n*[hidden] {\\n    display: none;\\n}\\nbody {\\n\\tline-height: 1;\\n}\\nol, ul {\\n\\tlist-style: none;\\n}\\nblockquote, q {\\n\\tquotes: none;\\n}\\nblockquote:before, blockquote:after,\\nq:before, q:after {\\n\\tcontent: '';\\n\\tcontent: none;\\n}\\ntable {\\n\\tborder-collapse: collapse;\\n\\tborder-spacing: 0;\\n}\\n\",\":root {\\n    /* HEX */\\n    --paletteColor1: #000;\\n    --paletteColor2: #fff;\\n    --paletteColor3: #dbdbdb;\\n    --paletteColor4: #262626;\\n    --paletteColor5: #fafafa;\\n    --paletteColor6: #efefef;\\n\\n    /* RGBA */\\n    --rgbaColor1: #00000050;\\n}\\n\",\"* {\\n    box-sizing: border-box;\\n    outline: 0;\\n}\\n\\nbody {\\n    font-family: roboto mono, roboto, system-ui;\\n\\n    /* Зачаровать шрифты */\\n    font-smoothing: antialiased;\\n    font-variant-ligatures: none;\\n\\n    /**\\n     * Фикс для мобильного сафари, чтобы при поворотах он не склеивал и не терял контент.\\n     * Префиксы установлены вручную, так как на момент 13.03.2018\\n     * autoprefixer этого не делал автоматически.\\n     */\\n    -moz-text-size-adjust: 100%;\\n    -webkit-text-size-adjust: 100%;\\n    -ms-text-size-adjust: 100%;\\n\\n    min-height: 100vh;\\n\\n    & section {\\n        width: 100%;\\n    }\\n}\",\".content {\\n    background-color: var(--paletteColor5);\\n    border-top: 1px solid var(--paletteColor3);\\n    min-height: 100vh;\\n}\\n\",\"@import '../breakpoints';\\n\\n.header {\\n    display: flex;\\n    justify-content: space-around;\\n    align-items: center;\\n    max-width: 930px;\\n    margin: 25px auto 20px;\\n\\n    & div {\\n        & a {\\n            display: inline-block;\\n            width: 176px;\\n            height: 35px;\\n            margin-top: -7px;\\n            background-image: url('./assets/images/instagram-logo.png');\\n            background-repeat: no-repeat;\\n            background-size: 176px 35px;\\n            cursor: pointer;\\n        }\\n    }\\n\\n    & input {\\n        min-width: 215px;\\n        height: 28px;\\n        border: 1px solid var(--paletteColor3);\\n        border-radius: 3px;\\n        padding: 5px 10px 3px 26px;\\n        margin-top: 1px;\\n        font-size: 14px;\\n        color: var(--paletteColor4);\\n        background-image: url('./assets/images/search.png');\\n        background-repeat: no-repeat;\\n        background-size: 10px 10px;\\n        background-position: 10px 50%;\\n        box-sizing: border-box;\\n    }\\n\\n    & nav {\\n        display: flex;\\n        justify-content: flex-end;\\n        padding-top: 3px;\\n\\n        & a {\\n            display: inline-block;\\n            width: 20px;\\n            height: 20px;\\n            cursor: pointer;\\n        }\\n\\n        & .explore {\\n            background-image: url('./assets/images/explore.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .likes {\\n            background-image: url('./assets/images/likes.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .settings {\\n            background-image: url('./assets/images/settings.png');\\n            background-size: 20px 20px;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        flex-direction: column;\\n\\n        & div {\\n            display: flex;\\n            justify-content: center;\\n            margin-bottom: 15px;\\n        }\\n\\n        & input {\\n            margin-bottom: 15px;\\n        }\\n\\n        & nav {\\n            justify-content: center;\\n        }\\n    }\\n\\n    @media (--tabletPortrait) {\\n        max-width: 750px;\\n    }\\n}\\n\",\".photo {\\n    cursor: pointer;\\n    flex: 1 1 297px;\\n    padding: 10px;\\n\\n    & img {\\n        max-width: 100%;\\n    }\\n\\n    @media (--phonePortrait) {\\n        flex: 1 1 100px;\\n        padding: 5px;\\n    }\\n\\n    @media (--phoneLandscape) {\\n        flex: 1 1 150px;\\n        padding: 5px;\\n    }\\n\\n    @media (--tabletPortrait), (--tabletLandscape) {\\n        flex: 1 1 190px;\\n        padding: 7px;\\n    }\\n}\\n\",\".photos {\\n    display: flex;\\n    flex-wrap: wrap;\\n    margin: 0 auto;\\n    max-width: 935px;\\n}\\n\",\"@import '../breakpoints';\\n\\n.profile {\\n    display: flex;\\n    justify-content: center;\\n    margin: 57px auto 45px;\\n    max-width: 930px;\\n    border-bottom: 1px solid var(--paletteColor6);\\n\\n    & img {\\n        width: 152px;\\n        height: 152px;\\n        border-radius: 50%;\\n        border: 1px solid rgba(0, 0, 0, .1);\\n        margin: 0 95px 25px 70px;\\n        cursor: pointer;\\n    }\\n\\n    & div {\\n        & .nickname {\\n            font-size: 32px;\\n            line-height: 40px;\\n            font-weight: 200;\\n            margin-top: 5px;\\n            margin-bottom: 18px;\\n        }\\n\\n        & .stats {\\n            font-size: 20px;\\n            margin-bottom: 20px;\\n            padding-left: 3px;\\n\\n            & span {\\n                & span:nth-child(odd) {\\n                    font-weight: 700;\\n                }\\n\\n                & span:nth-child(even) {\\n                    margin-right: 30px;\\n                }\\n            }\\n        }\\n\\n        & .name {\\n            font-size: 20px;\\n            font-weight: 500;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        max-width: 100%;\\n        flex-direction: column;\\n        align-items: center;\\n        padding-bottom: 40px;\\n\\n        & img {\\n            width: 77px;\\n            height: 77px;\\n            margin: 0 0 25px 0;\\n        }\\n\\n        & div {\\n            & .nickname {\\n                font-size: 32px;\\n                font-weight: 500;\\n                text-align: center;\\n            }\\n\\n            & .stats {\\n                display: flex;\\n                flex-direction: column;\\n                text-align: center;\\n\\n                & > span {\\n                    margin-bottom: 9px;\\n\\n                    & span:nth-child(even) {\\n                        margin-right: 0;\\n                    }\\n                }\\n            }\\n\\n            & .name {\\n                text-align: center;\\n            }\\n        }\\n    }\\n}\\n\"],\"sourceRoot\":\"\"}]);\n\n// exports\n"
             }
           ],
           "filteredModules": 0,
@@ -8147,7 +8136,7 @@
           "name": "./node_modules/css-loader??ref--7-1!./node_modules/postcss-loader/lib??postcss!./source/theme/init.css",
           "index": 0,
           "index2": 7,
-          "size": 13749,
+          "size": 13828,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -8181,7 +8170,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "var escape = require(\"../../node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(true);\n// imports\n\n\n// module\nexports.push([module.id, \"a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,main,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{border:0;font:inherit;font-size:100%;margin:0;padding:0;vertical-align:initial}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}[hidden]{display:none}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:\\\"\\\";content:none}table{border-collapse:collapse;border-spacing:0}:root{--paletteColor1:#000;--paletteColor2:#fff;--paletteColor3:#dbdbdb;--paletteColor4:#262626;--paletteColor5:#fafafa;--paletteColor6:#efefef;--rgbaColor1:rgba(0,0,0,0.31)}*{box-sizing:border-box;outline:0}body{-moz-osx-font-smoothing:grayscale;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;font-family:roboto mono,roboto,system-ui;font-feature-settings:none;font-variant-ligatures:none;min-height:100vh}body section{width:100%}.content{background-color:var(--paletteColor5);border-top:1px solid var(--paletteColor3);min-height:100vh}.header{align-items:center;display:flex;justify-content:space-around;margin:25px auto 20px;max-width:930px}.header div a{background-image:url(\" + escape(require(\"./assets/images/instagram-logo.png\")) + \");background-repeat:no-repeat;background-size:176px 35px;cursor:pointer;display:inline-block;height:35px;margin-top:-7px;width:176px}.header input{background-image:url(\" + escape(require(\"./assets/images/search.png\")) + \");background-position:10px 50%;background-repeat:no-repeat;background-size:10px 10px;border:1px solid var(--paletteColor3);border-radius:3px;box-sizing:border-box;color:var(--paletteColor4);font-size:14px;height:28px;margin-top:1px;min-width:215px;padding:5px 10px 3px 26px}.header nav{display:flex;justify-content:flex-end;padding-top:3px}.header nav a{cursor:pointer;display:inline-block;height:20px;width:20px}.header nav .explore{background-image:url(\" + escape(require(\"./assets/images/explore.png\")) + \")}.header nav .explore,.header nav .likes{background-size:20px 20px;margin-right:35px}.header nav .likes{background-image:url(\" + escape(require(\"./assets/images/likes.png\")) + \")}.header nav .settings{background-image:url(\" + escape(require(\"./assets/images/settings.png\")) + \");background-size:20px 20px}.photo{cursor:pointer;flex:1 1 297px;padding:10px}.photo img{max-width:100%}.photos{display:flex;flex-wrap:wrap;margin:0 auto;max-width:935px}.profile{border-bottom:1px solid var(--paletteColor6);display:flex;justify-content:center;margin:57px auto 45px;max-width:930px}.profile img{border-radius:50%;cursor:pointer;height:152px;margin:0 95px 25px 70px;width:152px}.profile div .nickname{font-size:32px;font-weight:200;line-height:40px;margin-bottom:18px;margin-top:5px}.profile div .stats{font-size:20px;margin-bottom:20px;padding-left:3px}.profile div .stats span span:nth-child(odd){font-weight:700}.profile div .stats span span:nth-child(2n){margin-right:30px}.profile div .name{font-size:20px;font-weight:500}@media  (max-width:414px),(min-width:415px) and (max-width:667px){.header{flex-direction:column}.header div{display:flex;justify-content:center}.header div,.header input{margin-bottom:15px}.header nav{justify-content:center}.profile{align-items:center;flex-direction:column;max-width:100%;padding-bottom:40px}.profile img{height:220px;margin:0 0 25px;width:220px}.profile div .nickname{font-size:32px;font-weight:500;text-align:center}.profile div .stats{display:flex;flex-direction:column;text-align:center}.profile div .stats>span{margin-bottom:9px}.profile div .stats>span span:nth-child(2n){margin-right:0}.profile div .name{text-align:center}}@media  (min-width:668px) and (max-width:768px){.header{max-width:750px}}@media  (max-width:414px){.photo{flex:1 1 100px;padding:5px}}@media  (min-width:415px) and (max-width:667px){.photo{flex:1 1 150px;padding:5px}}@media  (min-width:668px) and (max-width:768px),(min-width:769px) and (max-width:1024px){.photo{flex:1 1 190px;padding:7px}}\", \"\", {\"version\":3,\"sources\":[\"/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/reset-css/reset.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/palette.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/globals.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/content.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/header.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photo.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photos.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/profile.css\"],\"names\":[],\"mappings\":\"AAKA,gaAeC,SAAU,aACV,eAHA,SAAU,UACC,sBAIc,CACzB,mFAIA,aAAe,CACf,SAGG,YAAc,CACjB,KAEA,aAAe,CACf,MAEA,eAAiB,CACjB,aAEA,WAAa,CACb,oDAGA,WAAY,YACE,CACd,MAEA,yBAA0B,gBACR,CAClB,MCjDG,qBAAsB,qBACA,wBACG,wBACA,wBACA,wBACA,6BAGD,CAC3B,ECVG,sBAAuB,SACZ,CACd,KAMG,kCAA4B,2BAQA,0BAR5B,mCAA4B,8BAH5B,yCAA4C,2BAI5C,4BAA6B,gBAWX,CAElB,aACI,UAAY,CACf,SCxBD,sCAAuC,0CACI,gBACzB,CACrB,QCCG,mBAFA,aAAc,6BACgB,sBAE9B,eAAiB,CAIb,cAKI,+CAA4D,4BAC/B,2BACD,eAN5B,qBAAsB,YAET,gBADb,WAAa,CAOhB,cAYD,+CAAoD,6BACpD,4BAA6B,0BAP7B,sCAAuC,kBACpB,sBAInB,2BADA,eALA,YAAa,eADb,gBAAiB,yBAIU,CAS9B,YAGG,aAAc,yBACY,eACT,CAEjB,cAII,eAHA,qBAAsB,YACtB,UAAY,CAGf,qBAGG,8CAAqD,CAGxD,wCAFG,0BAA2B,iBACR,CAGvB,mBACI,8CAAmD,CAGtD,sBAGG,+CAAsD,yBAC3B,CAC9B,OChEL,eAAgB,eACA,YACF,CAEd,WACI,cAAgB,CACnB,QCND,aAAc,eACE,cACD,eACE,CACpB,SCEG,6CAJA,aAAc,uBACU,sBACD,eACN,CAGjB,aAGI,kBAAmB,eADnB,aAAc,wBADd,WAAa,CAKhB,uBAIO,eAAgB,gBAChB,iBAAkB,mBAElB,cAAgB,CAEnB,oBAGG,eAAgB,mBACI,gBACF,CAGd,6CACI,eAAiB,CACpB,4CAGG,iBAAmB,CACtB,mBAKL,eAAgB,eACC,CHwBzB,kEAlEJ,QAmEQ,qBAAuB,CAEvB,YACI,aAAc,sBACU,CAE3B,0BADG,kBAAoB,CAKvB,YAGG,sBAAwB,CAC3B,SGhCD,mBADA,sBADA,eAAgB,mBAGK,CAErB,aAEI,aAAc,gBADd,WAAa,CAGhB,uBAIO,eAAgB,gBACC,iBACE,CACtB,oBAGG,aAAc,sBACS,iBACJ,CAEnB,yBACI,iBAAmB,CAEnB,4CACI,cAAgB,CACnB,mBAKL,iBAAmB,CACtB,CHCR,gDAlFL,QAqFQ,eAAiB,CAExB,CADI,0BCxFL,OAUQ,eAAgB,WACH,CAYpB,CAXI,gDAZL,OAeQ,eAAgB,WACH,CAOpB,CANI,yFAjBL,OAoBQ,eAAgB,WACH,CAEpB,CADI\",\"file\":\"init.css\",\"sourcesContent\":[\"/* http://meyerweb.com/eric/tools/css/reset/\\n   v4.0 | 20180602\\n   License: none (public domain)\\n*/\\n\\nhtml, body, div, span, applet, object, iframe,\\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\\na, abbr, acronym, address, big, cite, code,\\ndel, dfn, em, img, ins, kbd, q, s, samp,\\nsmall, strike, strong, sub, sup, tt, var,\\nb, u, i, center,\\ndl, dt, dd, ol, ul, li,\\nfieldset, form, label, legend,\\ntable, caption, tbody, tfoot, thead, tr, th, td,\\narticle, aside, canvas, details, embed,\\nfigure, figcaption, footer, header, hgroup,\\nmain, menu, nav, output, ruby, section, summary,\\ntime, mark, audio, video {\\n\\tmargin: 0;\\n\\tpadding: 0;\\n\\tborder: 0;\\n\\tfont-size: 100%;\\n\\tfont: inherit;\\n\\tvertical-align: baseline;\\n}\\n/* HTML5 display-role reset for older browsers */\\narticle, aside, details, figcaption, figure,\\nfooter, header, hgroup, main, menu, nav, section {\\n\\tdisplay: block;\\n}\\n/* HTML5 hidden-attribute fix for newer browsers */\\n*[hidden] {\\n    display: none;\\n}\\nbody {\\n\\tline-height: 1;\\n}\\nol, ul {\\n\\tlist-style: none;\\n}\\nblockquote, q {\\n\\tquotes: none;\\n}\\nblockquote:before, blockquote:after,\\nq:before, q:after {\\n\\tcontent: '';\\n\\tcontent: none;\\n}\\ntable {\\n\\tborder-collapse: collapse;\\n\\tborder-spacing: 0;\\n}\\n\",\":root {\\n    /* HEX */\\n    --paletteColor1: #000;\\n    --paletteColor2: #fff;\\n    --paletteColor3: #dbdbdb;\\n    --paletteColor4: #262626;\\n    --paletteColor5: #fafafa;\\n    --paletteColor6: #efefef;\\n\\n    /* RGBA */\\n    --rgbaColor1: #00000050;\\n}\\n\",\"* {\\n    box-sizing: border-box;\\n    outline: 0;\\n}\\n\\nbody {\\n    font-family: roboto mono, roboto, system-ui;\\n\\n    /* Зачаровать шрифты */\\n    font-smoothing: antialiased;\\n    font-variant-ligatures: none;\\n\\n    /**\\n     * Фикс для мобильного сафари, чтобы при поворотах он не склеивал и не терял контент.\\n     * Префиксы установлены вручную, так как на момент 13.03.2018\\n     * autoprefixer этого не делал автоматически.\\n     */\\n    -moz-text-size-adjust: 100%;\\n    -webkit-text-size-adjust: 100%;\\n    -ms-text-size-adjust: 100%;\\n\\n    min-height: 100vh;\\n\\n    & section {\\n        width: 100%;\\n    }\\n}\",\".content {\\n    background-color: var(--paletteColor5);\\n    border-top: 1px solid var(--paletteColor3);\\n    min-height: 100vh;\\n}\\n\",\"@import '../breakpoints';\\n\\n.header {\\n    display: flex;\\n    justify-content: space-around;\\n    align-items: center;\\n    max-width: 930px;\\n    margin: 25px auto 20px;\\n\\n    & div {\\n        & a {\\n            display: inline-block;\\n            width: 176px;\\n            height: 35px;\\n            margin-top: -7px;\\n            background-image: url('./assets/images/instagram-logo.png');\\n            background-repeat: no-repeat;\\n            background-size: 176px 35px;\\n            cursor: pointer;\\n        }\\n    }\\n\\n    & input {\\n        min-width: 215px;\\n        height: 28px;\\n        border: 1px solid var(--paletteColor3);\\n        border-radius: 3px;\\n        padding: 5px 10px 3px 26px;\\n        margin-top: 1px;\\n        font-size: 14px;\\n        color: var(--paletteColor4);\\n        background-image: url('./assets/images/search.png');\\n        background-repeat: no-repeat;\\n        background-size: 10px 10px;\\n        background-position: 10px 50%;\\n        box-sizing: border-box;\\n    }\\n\\n    & nav {\\n        display: flex;\\n        justify-content: flex-end;\\n        padding-top: 3px;\\n\\n        & a {\\n            display: inline-block;\\n            width: 20px;\\n            height: 20px;\\n            cursor: pointer;\\n        }\\n\\n        & .explore {\\n            background-image: url('./assets/images/explore.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .likes {\\n            background-image: url('./assets/images/likes.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .settings {\\n            background-image: url('./assets/images/settings.png');\\n            background-size: 20px 20px;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        flex-direction: column;\\n\\n        & div {\\n            display: flex;\\n            justify-content: center;\\n            margin-bottom: 15px;\\n        }\\n\\n        & input {\\n            margin-bottom: 15px;\\n        }\\n\\n        & nav {\\n            justify-content: center;\\n        }\\n    }\\n\\n    @media (--tabletPortrait) {\\n        max-width: 750px;\\n    }\\n}\\n\",\".photo {\\n    cursor: pointer;\\n    flex: 1 1 297px;\\n    padding: 10px;\\n\\n    & img {\\n        max-width: 100%;\\n    }\\n\\n    @media (--phonePortrait) {\\n        flex: 1 1 100px;\\n        padding: 5px;\\n    }\\n\\n    @media (--phoneLandscape) {\\n        flex: 1 1 150px;\\n        padding: 5px;\\n    }\\n\\n    @media (--tabletPortrait), (--tabletLandscape) {\\n        flex: 1 1 190px;\\n        padding: 7px;\\n    }\\n}\\n\",\".photos {\\n    display: flex;\\n    flex-wrap: wrap;\\n    margin: 0 auto;\\n    max-width: 935px;\\n}\\n\",\"@import '../breakpoints';\\n\\n.profile {\\n    display: flex;\\n    justify-content: center;\\n    margin: 57px auto 45px;\\n    max-width: 930px;\\n    border-bottom: 1px solid var(--paletteColor6);\\n\\n    & img {\\n        width: 152px;\\n        height: 152px;\\n        border-radius: 50%;\\n        margin: 0 95px 25px 70px;\\n        cursor: pointer;\\n    }\\n\\n    & div {\\n        & .nickname {\\n            font-size: 32px;\\n            line-height: 40px;\\n            font-weight: 200;\\n            margin-top: 5px;\\n            margin-bottom: 18px;\\n        }\\n\\n        & .stats {\\n            font-size: 20px;\\n            margin-bottom: 20px;\\n            padding-left: 3px;\\n\\n            & span {\\n                & span:nth-child(odd) {\\n                    font-weight: 700;\\n                }\\n\\n                & span:nth-child(even) {\\n                    margin-right: 30px;\\n                }\\n            }\\n        }\\n\\n        & .name {\\n            font-size: 20px;\\n            font-weight: 500;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        max-width: 100%;\\n        flex-direction: column;\\n        align-items: center;\\n        padding-bottom: 40px;\\n\\n        & img {\\n            width: 220px;\\n            height: 220px;\\n            margin: 0 0 25px 0;\\n        }\\n\\n        & div {\\n            & .nickname {\\n                font-size: 32px;\\n                font-weight: 500;\\n                text-align: center;\\n            }\\n\\n            & .stats {\\n                display: flex;\\n                flex-direction: column;\\n                text-align: center;\\n\\n                & > span {\\n                    margin-bottom: 9px;\\n\\n                    & span:nth-child(even) {\\n                        margin-right: 0;\\n                    }\\n                }\\n            }\\n\\n            & .name {\\n                text-align: center;\\n            }\\n        }\\n    }\\n}\\n\"],\"sourceRoot\":\"\"}]);\n\n// exports\n"
+          "source": "var escape = require(\"../../node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(true);\n// imports\n\n\n// module\nexports.push([module.id, \"a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,main,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{border:0;font:inherit;font-size:100%;margin:0;padding:0;vertical-align:initial}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}[hidden]{display:none}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:\\\"\\\";content:none}table{border-collapse:collapse;border-spacing:0}:root{--paletteColor1:#000;--paletteColor2:#fff;--paletteColor3:#dbdbdb;--paletteColor4:#262626;--paletteColor5:#fafafa;--paletteColor6:#efefef;--rgbaColor1:rgba(0,0,0,0.31)}*{box-sizing:border-box;outline:0}body{-moz-osx-font-smoothing:grayscale;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;font-family:roboto mono,roboto,system-ui;font-feature-settings:none;font-variant-ligatures:none;min-height:100vh}body section{width:100%}.content{background-color:var(--paletteColor5);border-top:1px solid var(--paletteColor3);min-height:100vh}.header{align-items:center;display:flex;justify-content:space-around;margin:25px auto 20px;max-width:930px}.header div a{background-image:url(\" + escape(require(\"./assets/images/instagram-logo.png\")) + \");background-repeat:no-repeat;background-size:176px 35px;cursor:pointer;display:inline-block;height:35px;margin-top:-7px;width:176px}.header input{background-image:url(\" + escape(require(\"./assets/images/search.png\")) + \");background-position:10px 50%;background-repeat:no-repeat;background-size:10px 10px;border:1px solid var(--paletteColor3);border-radius:3px;box-sizing:border-box;color:var(--paletteColor4);font-size:14px;height:28px;margin-top:1px;min-width:215px;padding:5px 10px 3px 26px}.header nav{display:flex;justify-content:flex-end;padding-top:3px}.header nav a{cursor:pointer;display:inline-block;height:20px;width:20px}.header nav .explore{background-image:url(\" + escape(require(\"./assets/images/explore.png\")) + \")}.header nav .explore,.header nav .likes{background-size:20px 20px;margin-right:35px}.header nav .likes{background-image:url(\" + escape(require(\"./assets/images/likes.png\")) + \")}.header nav .settings{background-image:url(\" + escape(require(\"./assets/images/settings.png\")) + \");background-size:20px 20px}.photo{cursor:pointer;flex:1 1 297px;padding:10px}.photo img{max-width:100%}.photos{display:flex;flex-wrap:wrap;margin:0 auto;max-width:935px}.profile{border-bottom:1px solid var(--paletteColor6);display:flex;justify-content:center;margin:57px auto 45px;max-width:930px}.profile img{border:1px solid rgba(0,0,0,.1);border-radius:50%;cursor:pointer;height:152px;margin:0 95px 25px 70px;width:152px}.profile div .nickname{font-size:32px;font-weight:200;line-height:40px;margin-bottom:18px;margin-top:5px}.profile div .stats{font-size:20px;margin-bottom:20px;padding-left:3px}.profile div .stats span span:nth-child(odd){font-weight:700}.profile div .stats span span:nth-child(2n){margin-right:30px}.profile div .name{font-size:20px;font-weight:500}@media  (max-width:414px),(min-width:415px) and (max-width:667px){.header{flex-direction:column}.header div{display:flex;justify-content:center}.header div,.header input{margin-bottom:15px}.header nav{justify-content:center}.profile{align-items:center;flex-direction:column;max-width:100%;padding-bottom:40px}.profile img{height:77px;margin:0 0 25px;width:77px}.profile div .nickname{font-size:32px;font-weight:500;text-align:center}.profile div .stats{display:flex;flex-direction:column;text-align:center}.profile div .stats>span{margin-bottom:9px}.profile div .stats>span span:nth-child(2n){margin-right:0}.profile div .name{text-align:center}}@media  (min-width:668px) and (max-width:768px){.header{max-width:750px}}@media  (max-width:414px){.photo{flex:1 1 100px;padding:5px}}@media  (min-width:415px) and (max-width:667px){.photo{flex:1 1 150px;padding:5px}}@media  (min-width:668px) and (max-width:768px),(min-width:769px) and (max-width:1024px){.photo{flex:1 1 190px;padding:7px}}\", \"\", {\"version\":3,\"sources\":[\"/Users/furthur/Projects/intensives/react-trial-lesson/node_modules/reset-css/reset.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/palette.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/globals.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/content.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/header.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photo.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/photos.css\",\"/Users/furthur/Projects/intensives/react-trial-lesson/source/theme/components/profile.css\"],\"names\":[],\"mappings\":\"AAKA,gaAeC,SAAU,aACV,eAHA,SAAU,UACC,sBAIc,CACzB,mFAIA,aAAe,CACf,SAGG,YAAc,CACjB,KAEA,aAAe,CACf,MAEA,eAAiB,CACjB,aAEA,WAAa,CACb,oDAGA,WAAY,YACE,CACd,MAEA,yBAA0B,gBACR,CAClB,MCjDG,qBAAsB,qBACA,wBACG,wBACA,wBACA,wBACA,6BAGD,CAC3B,ECVG,sBAAuB,SACZ,CACd,KAMG,kCAA4B,2BAQA,0BAR5B,mCAA4B,8BAH5B,yCAA4C,2BAI5C,4BAA6B,gBAWX,CAElB,aACI,UAAY,CACf,SCxBD,sCAAuC,0CACI,gBACzB,CACrB,QCCG,mBAFA,aAAc,6BACgB,sBAE9B,eAAiB,CAIb,cAKI,+CAA4D,4BAC/B,2BACD,eAN5B,qBAAsB,YAET,gBADb,WAAa,CAOhB,cAYD,+CAAoD,6BACpD,4BAA6B,0BAP7B,sCAAuC,kBACpB,sBAInB,2BADA,eALA,YAAa,eADb,gBAAiB,yBAIU,CAS9B,YAGG,aAAc,yBACY,eACT,CAEjB,cAII,eAHA,qBAAsB,YACtB,UAAY,CAGf,qBAGG,8CAAqD,CAGxD,wCAFG,0BAA2B,iBACR,CAGvB,mBACI,8CAAmD,CAGtD,sBAGG,+CAAsD,yBAC3B,CAC9B,OChEL,eAAgB,eACA,YACF,CAEd,WACI,cAAgB,CACnB,QCND,aAAc,eACE,cACD,eACE,CACpB,SCEG,6CAJA,aAAc,uBACU,sBACD,eACN,CAGjB,aAII,gCADA,kBAAmB,eADnB,aAAc,wBADd,WAAa,CAMhB,uBAIO,eAAgB,gBAChB,iBAAkB,mBAElB,cAAgB,CAEnB,oBAGG,eAAgB,mBACI,gBACF,CAGd,6CACI,eAAiB,CACpB,4CAGG,iBAAmB,CACtB,mBAKL,eAAgB,eACC,CHuBzB,kEAlEJ,QAmEQ,qBAAuB,CAEvB,YACI,aAAc,sBACU,CAE3B,0BADG,kBAAoB,CAKvB,YAGG,sBAAwB,CAC3B,SG/BD,mBADA,sBADA,eAAgB,mBAGK,CAErB,aAEI,YAAa,gBADb,UAAY,CAGf,uBAIO,eAAgB,gBACC,iBACE,CACtB,oBAGG,aAAc,sBACS,iBACJ,CAEnB,yBACI,iBAAmB,CAEnB,4CACI,cAAgB,CACnB,mBAKL,iBAAmB,CACtB,CHAR,gDAlFL,QAqFQ,eAAiB,CAExB,CADI,0BCxFL,OAUQ,eAAgB,WACH,CAYpB,CAXI,gDAZL,OAeQ,eAAgB,WACH,CAOpB,CANI,yFAjBL,OAoBQ,eAAgB,WACH,CAEpB,CADI\",\"file\":\"init.css\",\"sourcesContent\":[\"/* http://meyerweb.com/eric/tools/css/reset/\\n   v4.0 | 20180602\\n   License: none (public domain)\\n*/\\n\\nhtml, body, div, span, applet, object, iframe,\\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\\na, abbr, acronym, address, big, cite, code,\\ndel, dfn, em, img, ins, kbd, q, s, samp,\\nsmall, strike, strong, sub, sup, tt, var,\\nb, u, i, center,\\ndl, dt, dd, ol, ul, li,\\nfieldset, form, label, legend,\\ntable, caption, tbody, tfoot, thead, tr, th, td,\\narticle, aside, canvas, details, embed,\\nfigure, figcaption, footer, header, hgroup,\\nmain, menu, nav, output, ruby, section, summary,\\ntime, mark, audio, video {\\n\\tmargin: 0;\\n\\tpadding: 0;\\n\\tborder: 0;\\n\\tfont-size: 100%;\\n\\tfont: inherit;\\n\\tvertical-align: baseline;\\n}\\n/* HTML5 display-role reset for older browsers */\\narticle, aside, details, figcaption, figure,\\nfooter, header, hgroup, main, menu, nav, section {\\n\\tdisplay: block;\\n}\\n/* HTML5 hidden-attribute fix for newer browsers */\\n*[hidden] {\\n    display: none;\\n}\\nbody {\\n\\tline-height: 1;\\n}\\nol, ul {\\n\\tlist-style: none;\\n}\\nblockquote, q {\\n\\tquotes: none;\\n}\\nblockquote:before, blockquote:after,\\nq:before, q:after {\\n\\tcontent: '';\\n\\tcontent: none;\\n}\\ntable {\\n\\tborder-collapse: collapse;\\n\\tborder-spacing: 0;\\n}\\n\",\":root {\\n    /* HEX */\\n    --paletteColor1: #000;\\n    --paletteColor2: #fff;\\n    --paletteColor3: #dbdbdb;\\n    --paletteColor4: #262626;\\n    --paletteColor5: #fafafa;\\n    --paletteColor6: #efefef;\\n\\n    /* RGBA */\\n    --rgbaColor1: #00000050;\\n}\\n\",\"* {\\n    box-sizing: border-box;\\n    outline: 0;\\n}\\n\\nbody {\\n    font-family: roboto mono, roboto, system-ui;\\n\\n    /* Зачаровать шрифты */\\n    font-smoothing: antialiased;\\n    font-variant-ligatures: none;\\n\\n    /**\\n     * Фикс для мобильного сафари, чтобы при поворотах он не склеивал и не терял контент.\\n     * Префиксы установлены вручную, так как на момент 13.03.2018\\n     * autoprefixer этого не делал автоматически.\\n     */\\n    -moz-text-size-adjust: 100%;\\n    -webkit-text-size-adjust: 100%;\\n    -ms-text-size-adjust: 100%;\\n\\n    min-height: 100vh;\\n\\n    & section {\\n        width: 100%;\\n    }\\n}\",\".content {\\n    background-color: var(--paletteColor5);\\n    border-top: 1px solid var(--paletteColor3);\\n    min-height: 100vh;\\n}\\n\",\"@import '../breakpoints';\\n\\n.header {\\n    display: flex;\\n    justify-content: space-around;\\n    align-items: center;\\n    max-width: 930px;\\n    margin: 25px auto 20px;\\n\\n    & div {\\n        & a {\\n            display: inline-block;\\n            width: 176px;\\n            height: 35px;\\n            margin-top: -7px;\\n            background-image: url('./assets/images/instagram-logo.png');\\n            background-repeat: no-repeat;\\n            background-size: 176px 35px;\\n            cursor: pointer;\\n        }\\n    }\\n\\n    & input {\\n        min-width: 215px;\\n        height: 28px;\\n        border: 1px solid var(--paletteColor3);\\n        border-radius: 3px;\\n        padding: 5px 10px 3px 26px;\\n        margin-top: 1px;\\n        font-size: 14px;\\n        color: var(--paletteColor4);\\n        background-image: url('./assets/images/search.png');\\n        background-repeat: no-repeat;\\n        background-size: 10px 10px;\\n        background-position: 10px 50%;\\n        box-sizing: border-box;\\n    }\\n\\n    & nav {\\n        display: flex;\\n        justify-content: flex-end;\\n        padding-top: 3px;\\n\\n        & a {\\n            display: inline-block;\\n            width: 20px;\\n            height: 20px;\\n            cursor: pointer;\\n        }\\n\\n        & .explore {\\n            background-image: url('./assets/images/explore.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .likes {\\n            background-image: url('./assets/images/likes.png');\\n            background-size: 20px 20px;\\n            margin-right: 35px;\\n        }\\n\\n        & .settings {\\n            background-image: url('./assets/images/settings.png');\\n            background-size: 20px 20px;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        flex-direction: column;\\n\\n        & div {\\n            display: flex;\\n            justify-content: center;\\n            margin-bottom: 15px;\\n        }\\n\\n        & input {\\n            margin-bottom: 15px;\\n        }\\n\\n        & nav {\\n            justify-content: center;\\n        }\\n    }\\n\\n    @media (--tabletPortrait) {\\n        max-width: 750px;\\n    }\\n}\\n\",\".photo {\\n    cursor: pointer;\\n    flex: 1 1 297px;\\n    padding: 10px;\\n\\n    & img {\\n        max-width: 100%;\\n    }\\n\\n    @media (--phonePortrait) {\\n        flex: 1 1 100px;\\n        padding: 5px;\\n    }\\n\\n    @media (--phoneLandscape) {\\n        flex: 1 1 150px;\\n        padding: 5px;\\n    }\\n\\n    @media (--tabletPortrait), (--tabletLandscape) {\\n        flex: 1 1 190px;\\n        padding: 7px;\\n    }\\n}\\n\",\".photos {\\n    display: flex;\\n    flex-wrap: wrap;\\n    margin: 0 auto;\\n    max-width: 935px;\\n}\\n\",\"@import '../breakpoints';\\n\\n.profile {\\n    display: flex;\\n    justify-content: center;\\n    margin: 57px auto 45px;\\n    max-width: 930px;\\n    border-bottom: 1px solid var(--paletteColor6);\\n\\n    & img {\\n        width: 152px;\\n        height: 152px;\\n        border-radius: 50%;\\n        border: 1px solid rgba(0, 0, 0, .1);\\n        margin: 0 95px 25px 70px;\\n        cursor: pointer;\\n    }\\n\\n    & div {\\n        & .nickname {\\n            font-size: 32px;\\n            line-height: 40px;\\n            font-weight: 200;\\n            margin-top: 5px;\\n            margin-bottom: 18px;\\n        }\\n\\n        & .stats {\\n            font-size: 20px;\\n            margin-bottom: 20px;\\n            padding-left: 3px;\\n\\n            & span {\\n                & span:nth-child(odd) {\\n                    font-weight: 700;\\n                }\\n\\n                & span:nth-child(even) {\\n                    margin-right: 30px;\\n                }\\n            }\\n        }\\n\\n        & .name {\\n            font-size: 20px;\\n            font-weight: 500;\\n        }\\n    }\\n\\n    @media (--phonePortrait), (--phoneLandscape) {\\n        max-width: 100%;\\n        flex-direction: column;\\n        align-items: center;\\n        padding-bottom: 40px;\\n\\n        & img {\\n            width: 77px;\\n            height: 77px;\\n            margin: 0 0 25px 0;\\n        }\\n\\n        & div {\\n            & .nickname {\\n                font-size: 32px;\\n                font-weight: 500;\\n                text-align: center;\\n            }\\n\\n            & .stats {\\n                display: flex;\\n                flex-direction: column;\\n                text-align: center;\\n\\n                & > span {\\n                    margin-bottom: 9px;\\n\\n                    & span:nth-child(even) {\\n                        margin-right: 0;\\n                    }\\n                }\\n            }\\n\\n            & .name {\\n                text-align: center;\\n            }\\n        }\\n    }\\n}\\n\"],\"sourceRoot\":\"\"}]);\n\n// exports\n"
         }
       ],
       "filteredModules": 0,
