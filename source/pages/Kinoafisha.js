@@ -36,7 +36,20 @@ export class Kinoafisha extends Component {
     render() {
         const styles = getStyles(this.state);
 
-        console.log('→ this.state.movies', this.state.movies);
+        const moviesJSX = this.state.movies.map((movie) => {
+            return (
+                <div
+                    className = 'movie'
+                    key = { movie.id }>
+                    <div className = 'poster'>
+                        <span className = 'genre'>{movie.genre}</span>
+                        <img src = { movie.poster } />
+                        <span className = 'rating'>{movie.rating}</span>
+                    </div>
+                    <span className = 'title'>{movie.title}</span>
+                </div>
+            );
+        });
 
         return (
             <>
