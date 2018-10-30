@@ -31,6 +31,18 @@ export class Kinoafisha extends Component {
                             onClick = { this._selectFilter }>
                             <span>Новинки 2018</span>
                         </div>
+                        <div
+                            className = { styles.upcomingFilter }
+                            data-name = 'upcoming'
+                            onClick = { this._selectFilter }>
+                            <span>Скоро в кинотеатрах</span>
+                        </div>
+                        <div
+                            className = { styles.popularFilter }
+                            data-name = 'popular'
+                            onClick = { this._selectFilter }>
+                            <span>В топ-чартах</span>
+                        </div>
                     </div>
                 </div>
             </>
