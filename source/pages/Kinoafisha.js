@@ -32,6 +32,8 @@ export class Kinoafisha extends Component {
     render() {
         const styles = getStyles(this.state);
 
+        console.log('→ this.state.movies', this.state.movies);
+
         return (
             <>
                 <div className = 'header'>
