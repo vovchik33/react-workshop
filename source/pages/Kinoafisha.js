@@ -4,6 +4,9 @@ import React, { Component } from 'react';
 // Helpers
 import { getStyles } from '../helpers';
 
+// Api
+import { api } from '../API';
+
 export class Kinoafisha extends Component {
     state = {
         selectedFilter: 'upcoming',
