@@ -13,6 +13,10 @@ export class Kinoafisha extends Component {
         movies:         [],
     };
 
+    componentDidMount() {
+        this._getMoviesByFilter(this.state.selectedFilter);
+    }
+
     _getMoviesByFilter = async (nextFilter) => {
         const movies = await api.getMovies(nextFilter);
 
@@ -33,7 +37,6 @@ export class Kinoafisha extends Component {
         const styles = getStyles(this.state);
 
         console.log('→ this.state.movies', this.state.movies);
-        console.log('→ this.state.selectedFilter', this.state.selectedFilter);
 
         return (
             <>
