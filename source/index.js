@@ -7,4 +7,4 @@ import './theme/init';
 
 import { Kinoafisha } from './pages/Kinoafisha';
 
-ReactDOM.render(start, document.getElementById('app'));
+ReactDOM.render(<Kinoafisha />, document.getElementById('app'));
