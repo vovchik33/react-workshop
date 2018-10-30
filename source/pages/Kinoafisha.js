@@ -33,6 +33,7 @@ export class Kinoafisha extends Component {
         const styles = getStyles(this.state);
 
         console.log('→ this.state.movies', this.state.movies);
+        console.log('→ this.state.selectedFilter', this.state.selectedFilter);
 
         return (
             <>
