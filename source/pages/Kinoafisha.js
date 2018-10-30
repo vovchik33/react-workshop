@@ -31,6 +31,8 @@ export class Kinoafisha extends Component {
         this.setState({
             selectedFilter: nextFilter,
         });
+
+        this._getMoviesByFilter(nextFilter);
     };
 
     render() {
