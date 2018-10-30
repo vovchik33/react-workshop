@@ -1,4 +1,8 @@
 // Core
 import React, { Component } from 'react';
 
-export const start = <h1 className = 'welcome'>Поехали!</h1>;
+export class Kinoafisha extends Component {
+    render() {
+        return <h1 className = 'welcome'>Поехали!</h1>;
+    }
+}
