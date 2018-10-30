@@ -55,7 +55,6 @@ const sync = (async function*() {
                         prune:     1,
                         callbacks: {
                             credentials(url, userName) {
-                                console.log('→ url', url, userName);
 
                                 return git.Cred.sshKeyFromAgent(userName);
                             },
