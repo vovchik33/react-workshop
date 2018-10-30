@@ -37,7 +37,7 @@ export class Kinoafisha extends Component {
         this._getMoviesByFilter(nextFilter);
     };
 
-    _selectMovie = (movieId) => {
+    _selectMovie = (movieId) => () => {
         this.setState({
             selectedMovie: movieId,
         });
