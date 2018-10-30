@@ -17,7 +17,7 @@ export class Kinoafisha extends Component {
                 <div className = 'header'>
                     <div className = 'logo' />
                     <div className = 'filters'>
-                        <div>
+                        <div className = { styles.latestFilter }>
                             <span>Новинки 2018</span>
                         </div>
                     </div>
