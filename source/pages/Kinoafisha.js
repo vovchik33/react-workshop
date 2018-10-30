@@ -38,9 +38,9 @@ export class Kinoafisha extends Component {
     };
 
     _selectMovie = (movieId) => {
-        // this.setState({
-        //     selectedMovie: movieId,
-        // });
+        this.setState({
+            selectedMovie: movieId,
+        });
     };
 
     render() {
