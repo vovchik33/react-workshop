@@ -9,8 +9,12 @@ export class Kinoafisha extends Component {
         selectedFilter: 'upcoming',
     };
 
-    _selectFilter = () => {
-        console.log('→ message');
+    _selectFilter = (event) => {
+        const nextFilter = event.currentTarget.dataset.name;
+
+        this.setState({
+            selectedFilter: nextFilter,
+        });
     };
 
     render() {
