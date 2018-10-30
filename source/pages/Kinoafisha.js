@@ -1,8 +1,17 @@
 // Core
 import React, { Component } from 'react';
 
+// Helpers
+import { getStyles } from '../helpers';
+
 export class Kinoafisha extends Component {
+    state = {
+        selectedFilter: 'upcoming',
+    };
+
     render() {
+        const styles = getStyles(this.state);
+
         return (
             <>
                 <div className = 'header'>
