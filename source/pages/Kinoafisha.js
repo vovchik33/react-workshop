@@ -10,6 +10,15 @@ import { api } from '../API';
 export class Kinoafisha extends Component {
     state = {
         selectedFilter: 'upcoming',
+        movies:         [],
+    };
+
+    _getMoviesByFilter = async (nextFilter) => {
+        const movies = await api.getMovies(nextFilter);
+
+        this.setState({
+            movies,
+        });
     };
 
     _selectFilter = (event) => {
