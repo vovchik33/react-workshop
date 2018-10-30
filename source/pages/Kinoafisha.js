@@ -11,7 +11,7 @@ export class Kinoafisha extends Component {
 
     _selectFilter = () => {
         console.log('→ message');
-    }
+    };
 
     render() {
         const styles = getStyles(this.state);
@@ -23,6 +23,7 @@ export class Kinoafisha extends Component {
                     <div className = 'filters'>
                         <div
                             className = { styles.latestFilter }
+                            data-name = 'latest'
                             onClick = { this._selectFilter }>
                             <span>Новинки 2018</span>
                         </div>
