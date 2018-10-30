@@ -9,6 +9,10 @@ export class Kinoafisha extends Component {
         selectedFilter: 'upcoming',
     };
 
+    _selectFilter = () => {
+        console.log('→ message');
+    }
+
     render() {
         const styles = getStyles(this.state);
 
