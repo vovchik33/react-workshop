@@ -17,7 +17,9 @@ export class Kinoafisha extends Component {
                 <div className = 'header'>
                     <div className = 'logo' />
                     <div className = 'filters'>
-                        <div className = { styles.latestFilter }>
+                        <div
+                            className = { styles.latestFilter }
+                            onClick = { this._selectFilter }>
                             <span>Новинки 2018</span>
                         </div>
                     </div>
