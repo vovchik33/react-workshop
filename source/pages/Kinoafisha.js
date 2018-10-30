@@ -1,5 +1,6 @@
 // Core
 import React, { Component } from 'react';
+import cx from 'classnames';
 
 // Helpers
 import { getStyles } from '../helpers';
@@ -10,6 +11,7 @@ import { api } from '../API';
 export class Kinoafisha extends Component {
     state = {
         selectedFilter: 'upcoming',
+        selectedMovie:  '',
         movies:         [],
     };
 
@@ -35,15 +37,26 @@ export class Kinoafisha extends Component {
         this._getMoviesByFilter(nextFilter);
     };
 
+    _selectMovie = (movieId) => {
+        // this.setState({
+        //     selectedMovie: movieId,
+        // });
+    };
+
     render() {
         const styles = getStyles(this.state);
 
         const moviesJSX = this.state.movies.map((movie) => {
+            const posterStyle = cx('poster', {
+                selectedPoster: movie.id === this.state.selectedMovie,
+            });
+
             return (
                 <div
                     className = 'movie'
-                    key = { movie.id }>
-                    <div className = 'poster'>
+                    key = { movie.id }
+                    onClick = { this._selectMovie(movie.id) }>
+                    <div className = { posterStyle }>
                         <span className = 'genre'>{movie.genre}</span>
                         <img src = { movie.poster } />
                         <span className = 'rating'>{movie.rating}</span>
