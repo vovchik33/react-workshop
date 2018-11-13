@@ -6,7 +6,6 @@
     margin-right: auto;
     margin-left: auto;
     padding-left: 34px;
-    cursor: pointer;
 
     & .movie {
         width: 224px;
@@ -27,6 +26,7 @@
             transition: box-shadow 0.3s ease;
             border-top-left-radius: 5px;
             border-top-right-radius: 5px;
+            cursor: pointer;
 
             &:before {
                 position: absolute;
