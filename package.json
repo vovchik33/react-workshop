@@ -1,13 +1,13 @@
 {
     "name": "react-workshop",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "author": "Dima Vakatsiienko <dvakatsiienko@lectrum.io>",
     "private": true,
     "dependencies": {
         "classnames": "2.2.6",
-        "react": "16.6.0",
-        "react-dom": "16.6.0",
-        "react-spring": "6.1.2",
+        "react": "16.6.3",
+        "react-dom": "16.6.3",
+        "react-spring": "6.1.9",
         "sanitize.css": "8.0.0"
     }
 }
