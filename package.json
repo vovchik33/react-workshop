@@ -24,8 +24,8 @@
     },
     "dependencies": {
         "classnames": "2.2.6",
-        "react": "16.6.3",
-        "react-dom": "16.6.3",
+        "react": "16.7.0-alpha.0",
+        "react-dom": "16.7.0-alpha.0",
         "react-spring": "6.1.9",
         "sanitize.css": "8.0.0"
     },
