@@ -27,6 +27,7 @@ const Kinoafisha = memo(() => {
         selectedFilter,
     });
 
+    // componentDidMount + componentWillUnmount
     useEffect(() => {
         _getMoviesByFilter(selectedFilter);
     }, []);
