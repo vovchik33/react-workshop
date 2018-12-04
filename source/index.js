@@ -6,7 +6,11 @@ import ReactDOM from 'react-dom';
 import './theme/init';
 
 const Kinoafisha = () => {
-    return <h1 className = 'welcome'>Поехали!</h1>;
+    return (
+        <>
+            <div className = 'logo' />
+        </>
+    );
 };
 
 ReactDOM.render(<Kinoafisha />, document.getElementById('app'));
