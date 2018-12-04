@@ -16,6 +16,16 @@ const Kinoafisha = () => {
                         data-name = 'latest'>
                         <span>Новинки 2018</span>
                     </div>
+                    <div
+                        className = 'filter'
+                        data-name = 'upcoming'>
+                        <span>Скоро в кинотеатрах</span>
+                    </div>
+                    <div
+                        className = 'filter'
+                        data-name = 'popular'>
+                        <span>В топ-чартах</span>
+                    </div>
                 </div>
             </div>
         </>
