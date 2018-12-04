@@ -10,6 +10,13 @@ const Kinoafisha = () => {
         <>
             <div className = 'header'>
                 <div className = 'logo' />
+                <div className = 'filters'>
+                    <div
+                        className = 'filter'
+                        data-name = 'latest'>
+                        <span>Новинки 2018</span>
+                    </div>
+                </div>
             </div>
         </>
     );
