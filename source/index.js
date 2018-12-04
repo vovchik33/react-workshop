@@ -21,6 +21,7 @@ const Kinoafisha = memo(() => {
         const nextFilter = event.currentTarget.dataset.name;
 
         setSelectedFilter(nextFilter);
+        _getMoviesByFilter(nextFilter);
     };
 
     const styles = getStyles({
