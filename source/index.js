@@ -1,5 +1,5 @@
 // Core
-import React, { memo, useState } from 'react';
+import React, { memo, useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
 
 // Theme
@@ -26,6 +26,10 @@ const Kinoafisha = memo(() => {
     const styles = getStyles({
         selectedFilter,
     });
+
+    useEffect(() => {
+        _getMoviesByFilter(selectedFilter);
+    }, []);
 
     console.log('→ movies', movies);
 
