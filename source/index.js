@@ -1,6 +1,7 @@
 // Core
 import React, { memo, useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
+import { Spring } from 'react-spring';
 
 // Theme
 import './theme/init';
@@ -35,16 +36,23 @@ const Kinoafisha = memo(() => {
 
     const moviesJSX = movies.map((movie) => {
         return (
-            <div
-                className = 'movie'
-                key = { movie.id }>
-                <div className = 'poster'>
-                    <span className = 'genre'>{movie.genre}</span>
-                    <img src = { movie.poster } />
-                    <span className = 'rating'>{movie.rating}</span>
+            <Spring
+                from = {{
+                    opacity: 0,
+                }}
+                key = { movie.id }
+                to = {{
+                    opacity: 1,
+                }}>
+                <div className = 'movie'>
+                    <div className = 'poster'>
+                        <span className = 'genre'>{movie.genre}</span>
+                        <img src = { movie.poster } />
+                        <span className = 'rating'>{movie.rating}</span>
+                    </div>
+                    <span className = 'title'>{movie.title}</span>
                 </div>
-                <span className = 'title'>{movie.title}</span>
-            </div>
+            </Spring>
         );
     });
 
