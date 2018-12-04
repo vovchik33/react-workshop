@@ -8,6 +8,8 @@ import './theme/init';
 const Kinoafisha = () => {
     const [ selectedFilter, setSelectedFilter ] = useState('upcoming');
 
+    console.log('→ selectedFilter', selectedFilter);
+
     return (
         <>
             <div className = 'header'>
