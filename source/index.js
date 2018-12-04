@@ -44,14 +44,18 @@ const Kinoafisha = memo(() => {
                 to = {{
                     opacity: 1,
                 }}>
-                <div className = 'movie'>
-                    <div className = 'poster'>
-                        <span className = 'genre'>{movie.genre}</span>
-                        <img src = { movie.poster } />
-                        <span className = 'rating'>{movie.rating}</span>
+                {(props) => (
+                    <div
+                        className = 'movie'
+                        style = { props }>
+                        <div className = 'poster'>
+                            <span className = 'genre'>{movie.genre}</span>
+                            <img src = { movie.poster } />
+                            <span className = 'rating'>{movie.rating}</span>
+                        </div>
+                        <span className = 'title'>{movie.title}</span>
                     </div>
-                    <span className = 'title'>{movie.title}</span>
-                </div>
+                )}
             </Spring>
         );
     });
