@@ -90,4 +90,4 @@ const Kinoafisha = memo(() => {
     );
 });
 
-ReactDOM.render(<Kinoafisha />, document.getElementById('app'));
+ReactDOM.render(<Kinoafisha dat />, document.getElementById('app'));
