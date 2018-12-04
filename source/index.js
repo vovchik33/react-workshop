@@ -9,8 +9,6 @@ import { getStyles } from './helpers';
 const Kinoafisha = memo(() => {
     const [ selectedFilter, setSelectedFilter ] = useState('upcoming');
 
-    console.log('→ selectedFilter', selectedFilter);
-
     const _updateMoviesByFilter = (event) => {
         const nextFilter = event.currentTarget.dataset.name;
 
