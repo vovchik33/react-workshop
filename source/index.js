@@ -22,7 +22,8 @@ const Kinoafisha = () => {
                 <div className = 'filters'>
                     <div
                         className = { styles.latestFilter }
-                        data-name = 'latest'>
+                        data-name = 'latest'
+                        onClick = { () => setSelectedFilter('latest') }>
                         <span>Новинки 2018</span>
                     </div>
                     <div
