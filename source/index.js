@@ -4,11 +4,16 @@ import ReactDOM from 'react-dom';
 
 // Theme
 import './theme/init';
+import { getStyles } from './helpers';
 
 const Kinoafisha = () => {
     const [ selectedFilter, setSelectedFilter ] = useState('upcoming');
 
     console.log('→ selectedFilter', selectedFilter);
+
+    const styles = getStyles({
+        selectedFilter,
+    });
 
     return (
         <>
@@ -16,17 +21,17 @@ const Kinoafisha = () => {
                 <div className = 'logo' />
                 <div className = 'filters'>
                     <div
-                        className = 'filter'
+                        className = { styles.latestFilter }
                         data-name = 'latest'>
                         <span>Новинки 2018</span>
                     </div>
                     <div
-                        className = 'filter'
+                        className = { styles.upcomingFilter }
                         data-name = 'upcoming'>
                         <span>Скоро в кинотеатрах</span>
                     </div>
                     <div
-                        className = 'filter'
+                        className = { styles.popularFilter }
                         data-name = 'popular'>
                         <span>В топ-чартах</span>
                     </div>
