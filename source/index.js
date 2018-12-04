@@ -1,12 +1,12 @@
 // Core
-import React, { useState } from 'react';
+import React, { memo, useState } from 'react';
 import ReactDOM from 'react-dom';
 
 // Theme
 import './theme/init';
 import { getStyles } from './helpers';
 
-const Kinoafisha = () => {
+const Kinoafisha = memo(() => {
     const [ selectedFilter, setSelectedFilter ] = useState('upcoming');
 
     console.log('→ selectedFilter', selectedFilter);
@@ -40,6 +40,6 @@ const Kinoafisha = () => {
             </div>
         </>
     );
-};
+});
 
 ReactDOM.render(<Kinoafisha />, document.getElementById('app'));
