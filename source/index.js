@@ -11,6 +11,12 @@ const Kinoafisha = memo(() => {
 
     console.log('→ selectedFilter', selectedFilter);
 
+    const _updateMoviesByFilter = (event) => {
+        const nextFilter = event.currentTarget.dataset.name;
+
+        setSelectedFilter(nextFilter);
+    };
+
     const styles = getStyles({
         selectedFilter,
     });
@@ -23,17 +29,19 @@ const Kinoafisha = memo(() => {
                     <div
                         className = { styles.latestFilter }
                         data-name = 'latest'
-                        onClick = { () => setSelectedFilter('latest') }>
+                        onClick = { _updateMoviesByFilter }>
                         <span>Новинки 2018</span>
                     </div>
                     <div
                         className = { styles.upcomingFilter }
-                        data-name = 'upcoming'>
+                        data-name = 'upcoming'
+                        onClick = { _updateMoviesByFilter }>
                         <span>Скоро в кинотеатрах</span>
                     </div>
                     <div
                         className = { styles.popularFilter }
-                        data-name = 'popular'>
+                        data-name = 'popular'
+                        onClick = { _updateMoviesByFilter }>
                         <span>В топ-чартах</span>
                     </div>
                 </div>
