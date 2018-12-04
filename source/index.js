@@ -5,10 +5,17 @@ import ReactDOM from 'react-dom';
 // Theme
 import './theme/init';
 import { getStyles } from './helpers';
+import { api } from './API';
 
 const Kinoafisha = memo(() => {
     const [ selectedFilter, setSelectedFilter ] = useState('upcoming');
     const [ movies, setMovies ] = useState([]);
+
+    const _getMoviesByFilter = async (nextFilter) => {
+        const movies = await api.getMovies(nextFilter);
+
+        setMovies(movies);
+    };
 
     const _updateMoviesByFilter = (event) => {
         const nextFilter = event.currentTarget.dataset.name;
