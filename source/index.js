@@ -1,11 +1,13 @@
 // Core
-import React from 'react';
+import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 
 // Theme
 import './theme/init';
 
 const Kinoafisha = () => {
+    const [ selectedFilter, setSelectedFilter ] = useState('upcoming');
+
     return (
         <>
             <div className = 'header'>
