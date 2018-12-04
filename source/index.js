@@ -32,7 +32,20 @@ const Kinoafisha = memo(() => {
         _getMoviesByFilter(selectedFilter);
     }, []);
 
-    console.log('→ movies', movies);
+    const moviesJSX = movies.map((movie) => {
+        return (
+            <div
+                className = 'movie'
+                key = { movie.id }>
+                <div className = 'poster'>
+                    <span className = 'genre'>{movie.genre}</span>
+                    <img src = { movie.poster } />
+                    <span className = 'rating'>{movie.rating}</span>
+                </div>
+                <span className = 'title'>{movie.title}</span>
+            </div>
+        );
+    });
 
     return (
         <>
