@@ -72,6 +72,7 @@ const Kinoafisha = memo(() => {
                     </div>
                 </div>
             </div>
+            <div className = 'content'>{moviesJSX}</div>
         </>
     );
 });
