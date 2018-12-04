@@ -8,7 +8,9 @@ import './theme/init';
 const Kinoafisha = () => {
     return (
         <>
-            <div className = 'logo' />
+            <div className = 'header'>
+                <div className = 'logo' />
+            </div>
         </>
     );
 };
